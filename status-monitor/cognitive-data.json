@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-19T12:23:49.348988+00:00",
+  "timestamp": "2026-03-19T12:24:56.662067+00:00",
   "cognitive_score": 50,
   "score_breakdown": {
     "wait_score": 0,
@@ -22,8 +22,8 @@
   "processing_count": 2,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 124472,
-  "total_tokens_formatted": "124.5k",
+  "total_tokens": 141555,
+  "total_tokens_formatted": "141.6k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
@@ -37,13 +37,13 @@
     {
       "label": "👥 飞书集成",
       "status": "🔄 处理中",
-      "tokens": 12165,
+      "tokens": 29248,
       "type": "session",
       "last_role": "assistant"
     }
   ],
-  "cpu_percent": 1.0,
-  "memory_percent": 49.8,
+  "cpu_percent": 100.0,
+  "memory_percent": 53.3,
   "workflow_details": [],
   "build_details": []
 }
