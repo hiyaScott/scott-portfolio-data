@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-19T06:04:01.803672+00:00",
+  "timestamp": "2026-03-19T06:05:38.977955+00:00",
   "cognitive_score": 1,
   "score_breakdown": {
     "wait_score": 0,
@@ -35,8 +35,8 @@
       "last_role": "assistant"
     }
   ],
-  "cpu_percent": 3.5,
-  "memory_percent": 47.8,
+  "cpu_percent": 0.0,
+  "memory_percent": 46.9,
   "workflow_details": [],
   "build_details": []
 }
