@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-19T14:54:39.586682+00:00",
+  "timestamp": "2026-03-19T14:56:02.392610+00:00",
   "cognitive_score": 25,
   "score_breakdown": {
     "wait_score": 0,
@@ -29,14 +29,14 @@
   "task_queue": [
     {
       "label": "💬 战棋研究",
-      "status": "💤 54分钟前活跃",
+      "status": "💤 56分钟前活跃",
       "tokens": 122,
       "type": "session",
       "last_role": "user"
     }
   ],
-  "cpu_percent": 0.0,
-  "memory_percent": 48.9,
+  "cpu_percent": 0.5,
+  "memory_percent": 49.2,
   "workflow_details": [],
   "build_details": []
 }
