@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-19T12:05:02.235080+00:00",
+  "timestamp": "2026-03-19T12:05:38.677954+00:00",
   "cognitive_score": 0,
   "score_breakdown": {
     "wait_score": 0,
@@ -26,9 +26,17 @@
   "total_tokens_formatted": "112.9k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
-  "task_queue": [],
+  "task_queue": [
+    {
+      "label": "👥 CI/CD",
+      "status": "✅ 已回复",
+      "tokens": 112889,
+      "type": "session",
+      "last_role": "assistant"
+    }
+  ],
   "cpu_percent": 0.0,
-  "memory_percent": 47.9,
+  "memory_percent": 47.0,
   "workflow_details": [],
   "build_details": []
 }
