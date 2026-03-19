@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-19T11:56:00.253701+00:00",
+  "timestamp": "2026-03-19T11:57:02.777688+00:00",
   "cognitive_score": 0,
   "score_breakdown": {
     "wait_score": 0,
@@ -26,17 +26,9 @@
   "total_tokens_formatted": "119.2k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
-  "task_queue": [
-    {
-      "label": "👥 系统监控",
-      "status": "✅ 已回复",
-      "tokens": 119245,
-      "type": "session",
-      "last_role": "assistant"
-    }
-  ],
+  "task_queue": [],
   "cpu_percent": 0.0,
-  "memory_percent": 48.4,
+  "memory_percent": 49.3,
   "workflow_details": [],
   "build_details": []
 }
