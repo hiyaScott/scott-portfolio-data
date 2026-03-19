@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-19T13:23:02.167482+00:00",
+  "timestamp": "2026-03-19T13:23:56.732225+00:00",
   "cognitive_score": 0,
   "score_breakdown": {
     "wait_score": 0,
@@ -26,9 +26,17 @@
   "total_tokens_formatted": "46.0k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
-  "task_queue": [],
+  "task_queue": [
+    {
+      "label": "💬 代码版本",
+      "status": "✅ 已回复",
+      "tokens": 46025,
+      "type": "session",
+      "last_role": "assistant"
+    }
+  ],
   "cpu_percent": 0.0,
-  "memory_percent": 49.6,
+  "memory_percent": 49.1,
   "workflow_details": [],
   "build_details": []
 }
