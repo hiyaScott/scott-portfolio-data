@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-19T12:21:02.926001+00:00",
+  "timestamp": "2026-03-19T12:22:02.810126+00:00",
   "cognitive_score": 25,
   "score_breakdown": {
     "wait_score": 0,
@@ -22,21 +22,21 @@
   "processing_count": 1,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 119987,
-  "total_tokens_formatted": "120.0k",
+  "total_tokens": 112307,
+  "total_tokens_formatted": "112.3k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "👥 CI/CD",
+      "label": "👥 系统监控",
       "status": "🔄 处理中",
-      "tokens": 119987,
+      "tokens": 112307,
       "type": "session",
       "last_role": "assistant"
     }
   ],
   "cpu_percent": 0.0,
-  "memory_percent": 49.9,
+  "memory_percent": 50.2,
   "workflow_details": [],
   "build_details": []
 }
