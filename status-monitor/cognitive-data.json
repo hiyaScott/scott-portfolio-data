@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-03-19T11:25:59.940686+00:00",
-  "cognitive_score": 8,
+  "timestamp": "2026-03-19T11:27:01.638903+00:00",
+  "cognitive_score": 1,
   "score_breakdown": {
     "wait_score": 0,
     "token_score": 0,
-    "base_score": 8,
+    "base_score": 1,
     "active_sessions": 1,
     "recent_active": 1,
     "tool_calls": 0,
     "pending": 0,
-    "processing": 1,
+    "processing": 0,
     "estimated_response": 30
   },
   "status_code": "low",
@@ -19,7 +19,7 @@
   "recent_active_count": 1,
   "total_tool_calls": 0,
   "pending_count": 0,
-  "processing_count": 1,
+  "processing_count": 0,
   "github_workflows": 0,
   "local_builds": 0,
   "total_tokens": 75410,
@@ -29,14 +29,14 @@
   "task_queue": [
     {
       "label": "🤖 Bug修复",
-      "status": "🔄 处理中",
+      "status": "✅ 已回复",
       "tokens": 75410,
       "type": "session",
       "last_role": "assistant"
     }
   ],
-  "cpu_percent": 2.5,
-  "memory_percent": 81.2,
+  "cpu_percent": 19.5,
+  "memory_percent": 82.4,
   "workflow_details": [],
   "build_details": []
 }
