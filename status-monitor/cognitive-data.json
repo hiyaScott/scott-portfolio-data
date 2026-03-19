@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-19T10:54:59.261706+00:00",
+  "timestamp": "2026-03-19T10:55:58.047333+00:00",
   "cognitive_score": 8,
   "score_breakdown": {
     "wait_score": 0,
@@ -22,21 +22,21 @@
   "processing_count": 1,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 60739,
-  "total_tokens_formatted": "60.7k",
+  "total_tokens": 61337,
+  "total_tokens_formatted": "61.3k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "👥 飞书集成",
+      "label": "👥 GitHub操作",
       "status": "🔄 处理中",
-      "tokens": 60739,
+      "tokens": 61337,
       "type": "session",
       "last_role": "assistant"
     }
   ],
   "cpu_percent": 0.0,
-  "memory_percent": 55.4,
+  "memory_percent": 56.7,
   "workflow_details": [],
   "build_details": []
 }
