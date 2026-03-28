@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-28T09:01:02.474285+00:00",
+  "timestamp": "2026-03-28T09:03:02.659866+00:00",
   "cognitive_score": 19.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -27,15 +27,15 @@
   "processing_count": 2,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 435505,
-  "total_tokens_formatted": "435.5k",
+  "total_tokens": 453190,
+  "total_tokens_formatted": "453.2k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "💬 数据库",
+      "label": "💬 API开发",
       "status": "🔄 处理中",
-      "tokens": 321854,
+      "tokens": 335897,
       "type": "session",
       "last_role": "assistant",
       "category": "作品",
@@ -45,7 +45,7 @@
     {
       "label": "👥 系统监控",
       "status": "🔄 处理中",
-      "tokens": 45961,
+      "tokens": 49603,
       "type": "session",
       "last_role": "assistant",
       "category": "研究",
@@ -63,8 +63,8 @@
       "category_description": "游戏开发、交互页面、创意工具、前端开发"
     }
   ],
-  "cpu_percent": 0.0,
-  "memory_percent": 55.5,
+  "cpu_percent": 0.5,
+  "memory_percent": 56.1,
   "workflow_details": [],
   "build_details": []
 }
