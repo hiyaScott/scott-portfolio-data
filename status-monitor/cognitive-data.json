@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-28T08:57:02.945444+00:00",
+  "timestamp": "2026-03-28T08:59:02.730255+00:00",
   "cognitive_score": 2.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -33,16 +33,6 @@
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "💬 PR审查",
-      "status": "💡 活跃中",
-      "tokens": 275690,
-      "type": "session",
-      "last_role": "assistant",
-      "category": "作品",
-      "category_icon": "🎮",
-      "category_description": "游戏开发、交互页面、创意工具、前端开发"
-    },
-    {
       "label": "👥 系统监控",
       "status": "💡 活跃中",
       "tokens": 45814,
@@ -51,6 +41,16 @@
       "category": "研究",
       "category_icon": "🔬",
       "category_description": "数据分析、竞品调研、技术方案设计"
+    },
+    {
+      "label": "💬 PR审查",
+      "status": "✅ 已回复",
+      "tokens": 275690,
+      "type": "session",
+      "last_role": "assistant",
+      "category": "作品",
+      "category_icon": "🎮",
+      "category_description": "游戏开发、交互页面、创意工具、前端开发"
     },
     {
       "label": "👥 GitHub操作",
@@ -63,8 +63,8 @@
       "category_description": "游戏开发、交互页面、创意工具、前端开发"
     }
   ],
-  "cpu_percent": 0.0,
-  "memory_percent": 55.8,
+  "cpu_percent": 0.5,
+  "memory_percent": 55.7,
   "workflow_details": [],
   "build_details": []
 }
