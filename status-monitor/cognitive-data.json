@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-03-28T06:09:02.573610+00:00",
-  "cognitive_score": 24.0,
+  "timestamp": "2026-03-28T06:11:02.424220+00:00",
+  "cognitive_score": 7.0,
   "score_breakdown": {
     "wait_score": 0,
     "token_score": 0,
@@ -8,14 +8,14 @@
     "active_score": 0,
     "system_score": 0,
     "processing_bonus": 0,
-    "base_score": 24.0,
-    "final_score": 24.0,
+    "base_score": 7.0,
+    "final_score": 7.0,
     "active_sessions": 4,
     "recent_active": 4,
     "tool_calls": 0,
-    "pending": 1,
-    "processing": 0,
-    "estimated_response": 15
+    "pending": 0,
+    "processing": 1,
+    "estimated_response": 0
   },
   "status_code": "low",
   "status_text": "🟢 空闲",
@@ -23,21 +23,21 @@
   "active_sessions": 4,
   "recent_active_count": 4,
   "total_tool_calls": 0,
-  "pending_count": 1,
-  "processing_count": 0,
+  "pending_count": 0,
+  "processing_count": 1,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 306793,
-  "total_tokens_formatted": "306.8k",
+  "total_tokens": 308177,
+  "total_tokens_formatted": "308.2k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "🤖 心跳监控",
-      "status": "💤 47分钟前活跃",
-      "tokens": 55031,
+      "label": "🤖 飞书集成",
+      "status": "🔄 处理中",
+      "tokens": 56415,
       "type": "session",
-      "last_role": "user",
+      "last_role": "assistant",
       "category": "作品",
       "category_icon": "🎮",
       "category_description": "游戏开发、交互页面、创意工具、前端开发"
@@ -74,7 +74,7 @@
     }
   ],
   "cpu_percent": 0.0,
-  "memory_percent": 54.9,
+  "memory_percent": 54.3,
   "workflow_details": [],
   "build_details": []
 }
