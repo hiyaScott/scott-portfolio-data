@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-28T18:41:02.803704+00:00",
+  "timestamp": "2026-03-28T18:43:02.649380+00:00",
   "cognitive_score": 27.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -34,7 +34,7 @@
   "task_queue": [
     {
       "label": "🤖 音乐设计",
-      "status": "💤 14分钟前活跃",
+      "status": "💤 16分钟前活跃",
       "tokens": 75837,
       "type": "session",
       "last_role": "user",
@@ -44,7 +44,7 @@
     },
     {
       "label": "💬 音乐设计",
-      "status": "💤 19分钟前活跃",
+      "status": "💤 21分钟前活跃",
       "tokens": 2587,
       "type": "session",
       "last_role": "user",
@@ -53,8 +53,8 @@
       "category_description": "游戏开发、交互页面、创意工具、前端开发"
     }
   ],
-  "cpu_percent": 0.0,
-  "memory_percent": 29.5,
+  "cpu_percent": 0.5,
+  "memory_percent": 29.7,
   "workflow_details": [],
   "build_details": []
 }
