@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-03-28T04:06:03.096655+00:00",
-  "cognitive_score": 31.0,
+  "timestamp": "2026-03-28T04:09:02.906250+00:00",
+  "cognitive_score": 24.0,
   "score_breakdown": {
     "wait_score": 0,
     "token_score": 0,
@@ -8,33 +8,33 @@
     "active_score": 0,
     "system_score": 0,
     "processing_bonus": 0,
-    "base_score": 31.0,
-    "final_score": 31.0,
+    "base_score": 24.0,
+    "final_score": 24.0,
     "active_sessions": 4,
     "recent_active": 4,
     "tool_calls": 0,
     "pending": 1,
-    "processing": 1,
-    "estimated_response": 30
+    "processing": 0,
+    "estimated_response": 15
   },
-  "status_code": "medium",
-  "status_text": "🟡 轻负载",
-  "suggestion": "30秒内响应",
+  "status_code": "low",
+  "status_text": "🟢 空闲",
+  "suggestion": "可立即响应",
   "active_sessions": 4,
   "recent_active_count": 4,
   "total_tool_calls": 0,
   "pending_count": 1,
-  "processing_count": 1,
+  "processing_count": 0,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 186526,
-  "total_tokens_formatted": "186.5k",
+  "total_tokens": 184999,
+  "total_tokens_formatted": "185.0k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
       "label": "🤖 心跳监控",
-      "status": "💤 14分钟前活跃",
+      "status": "💤 17分钟前活跃",
       "tokens": 54702,
       "type": "session",
       "last_role": "user",
@@ -44,8 +44,28 @@
     },
     {
       "label": "👥 系统监控",
-      "status": "🔄 处理中",
-      "tokens": 60624,
+      "status": "💡 活跃中",
+      "tokens": 59097,
+      "type": "session",
+      "last_role": "assistant",
+      "category": "作品",
+      "category_icon": "🎮",
+      "category_description": "游戏开发、交互页面、创意工具、前端开发"
+    },
+    {
+      "label": "💬 前端开发",
+      "status": "✅ 已回复",
+      "tokens": 21155,
+      "type": "session",
+      "last_role": "assistant",
+      "category": "研究",
+      "category_icon": "🔬",
+      "category_description": "数据分析、竞品调研、技术方案设计"
+    },
+    {
+      "label": "🤖 飞书集成",
+      "status": "✅ 已回复",
+      "tokens": 50045,
       "type": "session",
       "last_role": "assistant",
       "category": "研究",
@@ -53,8 +73,8 @@
       "category_description": "数据分析、竞品调研、技术方案设计"
     }
   ],
-  "cpu_percent": 0.5,
-  "memory_percent": 53.8,
+  "cpu_percent": 0.0,
+  "memory_percent": 54.1,
   "workflow_details": [],
   "build_details": []
 }
