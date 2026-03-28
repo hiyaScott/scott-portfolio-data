@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-03-28T09:51:02.831626+00:00",
-  "cognitive_score": 3.0,
+  "timestamp": "2026-03-28T09:53:02.164374+00:00",
+  "cognitive_score": 12.0,
   "score_breakdown": {
     "wait_score": 0,
     "token_score": 0,
@@ -8,14 +8,14 @@
     "active_score": 0,
     "system_score": 0,
     "processing_bonus": 0,
-    "base_score": 3.0,
-    "final_score": 3.0,
+    "base_score": 12.0,
+    "final_score": 12.0,
     "active_sessions": 3,
     "recent_active": 3,
     "tool_calls": 0,
     "pending": 0,
-    "processing": 0,
-    "estimated_response": 0
+    "processing": 1,
+    "estimated_response": 15
   },
   "status_code": "low",
   "status_text": "🟢 空闲",
@@ -24,18 +24,18 @@
   "recent_active_count": 3,
   "total_tool_calls": 0,
   "pending_count": 0,
-  "processing_count": 0,
+  "processing_count": 1,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 304913,
-  "total_tokens_formatted": "304.9k",
+  "total_tokens": 339119,
+  "total_tokens_formatted": "339.1k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "💬 Bug修复",
-      "status": "💡 活跃中",
-      "tokens": 171307,
+      "label": "💬 心跳监控",
+      "status": "🔄 处理中",
+      "tokens": 205513,
       "type": "session",
       "last_role": "assistant",
       "category": "研究",
@@ -63,8 +63,8 @@
       "category_description": "后端服务、API开发、自动化脚本、技术基建"
     }
   ],
-  "cpu_percent": 9.0,
-  "memory_percent": 56.4,
+  "cpu_percent": 0.0,
+  "memory_percent": 56.0,
   "workflow_details": [],
   "build_details": []
 }
