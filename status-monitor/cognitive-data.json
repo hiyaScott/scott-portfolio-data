@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-03-28T18:25:02.325950+00:00",
-  "cognitive_score": 20.0,
+  "timestamp": "2026-03-28T18:27:02.304592+00:00",
+  "cognitive_score": 22.0,
   "score_breakdown": {
     "wait_score": 0,
     "token_score": 0,
@@ -8,13 +8,13 @@
     "active_score": 0,
     "system_score": 0,
     "processing_bonus": 0,
-    "base_score": 20.0,
-    "final_score": 20.0,
+    "base_score": 22.0,
+    "final_score": 22.0,
     "active_sessions": 2,
     "recent_active": 2,
     "tool_calls": 0,
-    "pending": 1,
-    "processing": 1,
+    "pending": 2,
+    "processing": 0,
     "estimated_response": 15
   },
   "status_code": "low",
@@ -23,28 +23,28 @@
   "active_sessions": 2,
   "recent_active_count": 2,
   "total_tool_calls": 0,
-  "pending_count": 1,
-  "processing_count": 1,
+  "pending_count": 2,
+  "processing_count": 0,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 75447,
-  "total_tokens_formatted": "75.4k",
+  "total_tokens": 78424,
+  "total_tokens_formatted": "78.4k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
       "label": "🤖 音乐设计",
-      "status": "🔄 处理中",
-      "tokens": 72860,
+      "status": "💤 58秒前活跃",
+      "tokens": 75837,
       "type": "session",
-      "last_role": "assistant",
+      "last_role": "user",
       "category": "作品",
       "category_icon": "🎮",
       "category_description": "游戏开发、交互页面、创意工具、前端开发"
     },
     {
       "label": "💬 音乐设计",
-      "status": "💤 3分钟前活跃",
+      "status": "💤 5分钟前活跃",
       "tokens": 2587,
       "type": "session",
       "last_role": "user",
@@ -54,7 +54,7 @@
     }
   ],
   "cpu_percent": 0.0,
-  "memory_percent": 29.8,
+  "memory_percent": 29.3,
   "workflow_details": [],
   "build_details": []
 }
