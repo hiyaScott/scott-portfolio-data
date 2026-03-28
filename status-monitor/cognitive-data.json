@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-28T16:59:02.189811+00:00",
+  "timestamp": "2026-03-28T17:01:02.966644+00:00",
   "cognitive_score": 2.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -34,7 +34,7 @@
   "task_queue": [
     {
       "label": "💬 API开发",
-      "status": "💡 活跃中",
+      "status": "✅ 已回复",
       "tokens": 52617,
       "type": "session",
       "last_role": "assistant",
