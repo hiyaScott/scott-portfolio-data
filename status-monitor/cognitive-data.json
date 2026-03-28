@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-28T04:11:02.671864+00:00",
+  "timestamp": "2026-03-28T04:13:02.374065+00:00",
   "cognitive_score": 24.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -34,23 +34,13 @@
   "task_queue": [
     {
       "label": "🤖 心跳监控",
-      "status": "💤 19分钟前活跃",
+      "status": "💤 21分钟前活跃",
       "tokens": 54702,
       "type": "session",
       "last_role": "user",
       "category": "研究",
       "category_icon": "🔬",
       "category_description": "数据分析、竞品调研、技术方案设计"
-    },
-    {
-      "label": "👥 系统监控",
-      "status": "💡 活跃中",
-      "tokens": 59097,
-      "type": "session",
-      "last_role": "assistant",
-      "category": "作品",
-      "category_icon": "🎮",
-      "category_description": "游戏开发、交互页面、创意工具、前端开发"
     },
     {
       "label": "💬 前端开发",
@@ -63,6 +53,16 @@
       "category_description": "数据分析、竞品调研、技术方案设计"
     },
     {
+      "label": "👥 系统监控",
+      "status": "✅ 已回复",
+      "tokens": 59097,
+      "type": "session",
+      "last_role": "assistant",
+      "category": "作品",
+      "category_icon": "🎮",
+      "category_description": "游戏开发、交互页面、创意工具、前端开发"
+    },
+    {
       "label": "🤖 飞书集成",
       "status": "✅ 已回复",
       "tokens": 50045,
@@ -73,8 +73,8 @@
       "category_description": "数据分析、竞品调研、技术方案设计"
     }
   ],
-  "cpu_percent": 0.0,
-  "memory_percent": 54.1,
+  "cpu_percent": 0.5,
+  "memory_percent": 54.3,
   "workflow_details": [],
   "build_details": []
 }
