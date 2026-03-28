@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-28T14:25:02.839909+00:00",
+  "timestamp": "2026-03-28T14:27:03.018027+00:00",
   "cognitive_score": 14.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -34,7 +34,7 @@
   "task_queue": [
     {
       "label": "💬 FMOD音频",
-      "status": "💤 2分钟前活跃",
+      "status": "💤 4分钟前活跃",
       "tokens": 848996,
       "type": "session",
       "last_role": "user",
@@ -54,7 +54,7 @@
     }
   ],
   "cpu_percent": 0.0,
-  "memory_percent": 48.5,
+  "memory_percent": 48.9,
   "workflow_details": [],
   "build_details": []
 }
