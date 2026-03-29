@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-03-29T14:25:03.051544+00:00",
-  "cognitive_score": 1.0,
+  "timestamp": "2026-03-29T14:27:02.151508+00:00",
+  "cognitive_score": 3.0,
   "score_breakdown": {
     "wait_score": 0,
     "token_score": 0,
@@ -8,12 +8,12 @@
     "active_score": 0,
     "system_score": 0,
     "processing_bonus": 0,
-    "base_score": 1.0,
-    "final_score": 1.0,
+    "base_score": 3.0,
+    "final_score": 3.0,
     "active_sessions": 1,
     "recent_active": 1,
     "tool_calls": 0,
-    "pending": 0,
+    "pending": 1,
     "processing": 0,
     "estimated_response": 0
   },
@@ -23,28 +23,28 @@
   "active_sessions": 1,
   "recent_active_count": 1,
   "total_tool_calls": 0,
-  "pending_count": 0,
+  "pending_count": 1,
   "processing_count": 0,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 69214,
-  "total_tokens_formatted": "69.2k",
+  "total_tokens": 68581,
+  "total_tokens_formatted": "68.6k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "💬 GitHub操作",
-      "status": "💡 活跃中",
-      "tokens": 69214,
+      "label": "💬 心跳监控",
+      "status": "💤 15秒前活跃",
+      "tokens": 68581,
       "type": "session",
-      "last_role": "assistant",
+      "last_role": "user",
       "category": "研究",
       "category_icon": "🔬",
       "category_description": "数据分析、竞品调研、技术方案设计"
     }
   ],
-  "cpu_percent": 0.5,
-  "memory_percent": 35.5,
+  "cpu_percent": 0.0,
+  "memory_percent": 35.9,
   "workflow_details": [],
   "build_details": []
 }
