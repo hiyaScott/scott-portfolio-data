@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-29T20:05:02.859329+00:00",
+  "timestamp": "2026-03-29T20:07:02.576369+00:00",
   "cognitive_score": 43.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -10,8 +10,8 @@
     "processing_bonus": 0,
     "base_score": 43.0,
     "final_score": 43.0,
-    "active_sessions": 2,
-    "recent_active": 2,
+    "active_sessions": 1,
+    "recent_active": 1,
     "tool_calls": 0,
     "pending": 0,
     "processing": 1,
@@ -20,15 +20,15 @@
   "status_code": "medium",
   "status_text": "🟡 轻负载",
   "suggestion": "30秒内响应",
-  "active_sessions": 2,
-  "recent_active_count": 2,
+  "active_sessions": 1,
+  "recent_active_count": 1,
   "total_tool_calls": 0,
   "pending_count": 0,
   "processing_count": 1,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 1165465,
-  "total_tokens_formatted": "1165.5k",
+  "total_tokens": 1092035,
+  "total_tokens_formatted": "1092.0k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
@@ -41,20 +41,10 @@
       "category": "研究",
       "category_icon": "🔬",
       "category_description": "数据分析、竞品调研、技术方案设计"
-    },
-    {
-      "label": "👥 前端开发",
-      "status": "✅ 已回复",
-      "tokens": 73430,
-      "type": "session",
-      "last_role": "assistant",
-      "category": "开发",
-      "category_icon": "⚙️",
-      "category_description": "后端服务、API开发、自动化脚本、技术基建"
     }
   ],
   "cpu_percent": 0.0,
-  "memory_percent": 40.3,
+  "memory_percent": 40.5,
   "workflow_details": [],
   "build_details": []
 }
