@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-30T01:21:02.829073+00:00",
+  "timestamp": "2026-03-30T01:23:02.799917+00:00",
   "cognitive_score": 34.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -27,24 +27,24 @@
   "processing_count": 0,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 47392,
-  "total_tokens_formatted": "47.4k",
+  "total_tokens": 47712,
+  "total_tokens_formatted": "47.7k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "👥 代码提交",
-      "status": "💤 7分钟前活跃",
-      "tokens": 47271,
+      "label": "👥 GitHub操作",
+      "status": "💤 9分钟前活跃",
+      "tokens": 47591,
       "type": "session",
       "last_role": "user",
-      "category": "其他",
-      "category_icon": "📦",
-      "category_description": "临时任务、待分类事项、杂项"
+      "category": "开发",
+      "category_icon": "⚙️",
+      "category_description": "后端服务、API开发、自动化脚本、技术基建"
     },
     {
       "label": "💬 任务调度",
-      "status": "💤 21分钟前活跃",
+      "status": "💤 23分钟前活跃",
       "tokens": 121,
       "type": "session",
       "last_role": "user",
