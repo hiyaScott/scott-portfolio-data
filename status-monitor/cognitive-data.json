@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-30T04:35:02.930674+00:00",
+  "timestamp": "2026-03-30T04:37:02.496605+00:00",
   "cognitive_score": 5.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -43,8 +43,8 @@
       "category_description": "飞书对话、状态监控、定时任务、系统维护"
     }
   ],
-  "cpu_percent": 0.5,
-  "memory_percent": 41.4,
+  "cpu_percent": 0.0,
+  "memory_percent": 41.5,
   "workflow_details": [],
   "build_details": []
 }
