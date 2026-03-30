@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-30T19:47:03.040267+00:00",
+  "timestamp": "2026-03-30T19:49:02.793938+00:00",
   "cognitive_score": 2.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -32,7 +32,7 @@
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [],
-  "cpu_percent": 0.5,
+  "cpu_percent": 2.0,
   "memory_percent": 44.0,
   "workflow_details": [],
   "build_details": []
