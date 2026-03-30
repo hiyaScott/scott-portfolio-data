@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-30T16:11:02.734049+00:00",
+  "timestamp": "2026-03-30T16:13:02.476153+00:00",
   "cognitive_score": 2.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -34,7 +34,7 @@
   "task_queue": [
     {
       "label": "👥 系统监控",
-      "status": "💡 活跃中",
+      "status": "✅ 已回复",
       "tokens": 49928,
       "type": "session",
       "last_role": "assistant",
@@ -43,8 +43,8 @@
       "category_description": "数据分析、竞品调研、技术方案设计"
     }
   ],
-  "cpu_percent": 0.0,
-  "memory_percent": 45.2,
+  "cpu_percent": 1.0,
+  "memory_percent": 45.6,
   "workflow_details": [],
   "build_details": []
 }
