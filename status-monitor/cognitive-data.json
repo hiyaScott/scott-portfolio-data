@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-31T03:15:02.229791+00:00",
+  "timestamp": "2026-03-31T03:17:03.110219+00:00",
   "cognitive_score": 16.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -10,8 +10,8 @@
     "processing_bonus": 0,
     "base_score": 16.0,
     "final_score": 16.0,
-    "active_sessions": 4,
-    "recent_active": 4,
+    "active_sessions": 3,
+    "recent_active": 3,
     "tool_calls": 0,
     "pending": 0,
     "processing": 1,
@@ -20,14 +20,14 @@
   "status_code": "low",
   "status_text": "🟢 空闲",
   "suggestion": "可立即响应",
-  "active_sessions": 4,
-  "recent_active_count": 4,
+  "active_sessions": 3,
+  "recent_active_count": 3,
   "total_tool_calls": 0,
   "pending_count": 0,
   "processing_count": 1,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 244443,
+  "total_tokens": 244424,
   "total_tokens_formatted": "244.4k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
@@ -41,16 +41,6 @@
       "category": "研究",
       "category_icon": "🔬",
       "category_description": "数据分析、竞品调研、技术方案设计"
-    },
-    {
-      "label": "💬 私聊",
-      "status": "✅ 已回复",
-      "tokens": 19,
-      "type": "session",
-      "last_role": "assistant",
-      "category": "其他",
-      "category_icon": "📦",
-      "category_description": "临时任务、待分类事项、杂项"
     },
     {
       "label": "👥 飞书集成",
@@ -73,8 +63,8 @@
       "category_description": "临时任务、待分类事项、杂项"
     }
   ],
-  "cpu_percent": 1.5,
-  "memory_percent": 45.9,
+  "cpu_percent": 0.0,
+  "memory_percent": 46.3,
   "workflow_details": [],
   "build_details": []
 }
