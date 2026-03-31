@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-31T01:13:02.749739+00:00",
+  "timestamp": "2026-03-31T01:15:02.458239+00:00",
   "cognitive_score": 27.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -44,7 +44,7 @@
     },
     {
       "label": "💬 任务调度",
-      "status": "💤 13分钟前活跃",
+      "status": "💤 15分钟前活跃",
       "tokens": 121,
       "type": "session",
       "last_role": "user",
