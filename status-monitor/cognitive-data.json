@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-03-31T06:19:02.584436+00:00",
-  "cognitive_score": 39.0,
+  "timestamp": "2026-03-31T06:21:02.494269+00:00",
+  "cognitive_score": 48.0,
   "score_breakdown": {
     "wait_score": 0,
     "token_score": 0,
@@ -8,8 +8,8 @@
     "active_score": 0,
     "system_score": 0,
     "processing_bonus": 0,
-    "base_score": 39.0,
-    "final_score": 39.0,
+    "base_score": 48.0,
+    "final_score": 48.0,
     "active_sessions": 2,
     "recent_active": 2,
     "tool_calls": 0,
@@ -27,24 +27,24 @@
   "processing_count": 1,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 103124,
-  "total_tokens_formatted": "103.1k",
+  "total_tokens": 311907,
+  "total_tokens_formatted": "311.9k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "👥 安全配置",
+      "label": "👥 前端开发",
       "status": "🔄 处理中",
-      "tokens": 102787,
+      "tokens": 311570,
       "type": "session",
       "last_role": "assistant",
-      "category": "开发",
-      "category_icon": "⚙️",
-      "category_description": "后端服务、API开发、自动化脚本、技术基建"
+      "category": "研究",
+      "category_icon": "🔬",
+      "category_description": "数据分析、竞品调研、技术方案设计"
     },
     {
       "label": "💬 心跳监控",
-      "status": "💤 10分钟前活跃",
+      "status": "💤 12分钟前活跃",
       "tokens": 337,
       "type": "session",
       "last_role": "user",
@@ -53,8 +53,8 @@
       "category_description": "飞书对话、状态监控、定时任务、系统维护"
     }
   ],
-  "cpu_percent": 0.0,
-  "memory_percent": 36.1,
+  "cpu_percent": 1.0,
+  "memory_percent": 35.8,
   "workflow_details": [],
   "build_details": []
 }
