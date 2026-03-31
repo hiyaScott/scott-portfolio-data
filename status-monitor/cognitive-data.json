@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-03-31T02:31:02.311362+00:00",
-  "cognitive_score": 13.0,
+  "timestamp": "2026-03-31T02:33:02.528564+00:00",
+  "cognitive_score": 23.0,
   "score_breakdown": {
     "wait_score": 0,
     "token_score": 0,
@@ -8,14 +8,14 @@
     "active_score": 0,
     "system_score": 0,
     "processing_bonus": 0,
-    "base_score": 13.0,
-    "final_score": 13.0,
+    "base_score": 23.0,
+    "final_score": 23.0,
     "active_sessions": 4,
     "recent_active": 4,
     "tool_calls": 0,
     "pending": 0,
-    "processing": 1,
-    "estimated_response": 0
+    "processing": 2,
+    "estimated_response": 15
   },
   "status_code": "low",
   "status_text": "🟢 空闲",
@@ -24,18 +24,18 @@
   "recent_active_count": 4,
   "total_tool_calls": 0,
   "pending_count": 0,
-  "processing_count": 1,
+  "processing_count": 2,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 188029,
-  "total_tokens_formatted": "188.0k",
+  "total_tokens": 192253,
+  "total_tokens_formatted": "192.3k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
       "label": "👥 PR审查",
       "status": "🔄 处理中",
-      "tokens": 52264,
+      "tokens": 52396,
       "type": "session",
       "last_role": "assistant",
       "category": "作品",
@@ -44,8 +44,8 @@
     },
     {
       "label": "👥 飞书集成",
-      "status": "💡 活跃中",
-      "tokens": 135727,
+      "status": "🔄 处理中",
+      "tokens": 139819,
       "type": "session",
       "last_role": "assistant",
       "category": "研究",
@@ -73,8 +73,8 @@
       "category_description": "临时任务、待分类事项、杂项"
     }
   ],
-  "cpu_percent": 1.5,
-  "memory_percent": 45.3,
+  "cpu_percent": 0.0,
+  "memory_percent": 46.0,
   "workflow_details": [],
   "build_details": []
 }
