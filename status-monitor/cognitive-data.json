@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-31T18:47:02.171273+00:00",
+  "timestamp": "2026-03-31T18:49:02.209086+00:00",
   "cognitive_score": 21.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -34,7 +34,7 @@
   "task_queue": [
     {
       "label": "💬 GitHub操作",
-      "status": "💤 5分钟前活跃",
+      "status": "💤 7分钟前活跃",
       "tokens": 40319,
       "type": "session",
       "last_role": "user",
@@ -43,8 +43,8 @@
       "category_description": "游戏开发、交互页面、创意工具、前端开发"
     }
   ],
-  "cpu_percent": 0.5,
-  "memory_percent": 36.9,
+  "cpu_percent": 0.0,
+  "memory_percent": 36.8,
   "workflow_details": [],
   "build_details": []
 }
