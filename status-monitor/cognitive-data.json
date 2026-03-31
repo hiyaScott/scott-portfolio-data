@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-03-31T05:17:02.952218+00:00",
-  "cognitive_score": 15.0,
+  "timestamp": "2026-03-31T05:19:02.873922+00:00",
+  "cognitive_score": 12.0,
   "score_breakdown": {
     "wait_score": 0,
     "token_score": 0,
@@ -8,8 +8,8 @@
     "active_score": 0,
     "system_score": 0,
     "processing_bonus": 0,
-    "base_score": 15.0,
-    "final_score": 15.0,
+    "base_score": 12.0,
+    "final_score": 12.0,
     "active_sessions": 1,
     "recent_active": 1,
     "tool_calls": 0,
@@ -27,15 +27,15 @@
   "processing_count": 1,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 268931,
-  "total_tokens_formatted": "268.9k",
+  "total_tokens": 153316,
+  "total_tokens_formatted": "153.3k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "👥 PR审查",
+      "label": "👥 CI/CD",
       "status": "🔄 处理中",
-      "tokens": 268931,
+      "tokens": 153316,
       "type": "session",
       "last_role": "assistant",
       "category": "研究",
@@ -44,7 +44,7 @@
     }
   ],
   "cpu_percent": 0.0,
-  "memory_percent": 29.7,
+  "memory_percent": 30.8,
   "workflow_details": [],
   "build_details": []
 }
