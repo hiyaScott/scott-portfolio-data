@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-31T02:21:02.520077+00:00",
+  "timestamp": "2026-03-31T02:23:02.550691+00:00",
   "cognitive_score": 10.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -27,20 +27,20 @@
   "processing_count": 1,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 81638,
-  "total_tokens_formatted": "81.6k",
+  "total_tokens": 79685,
+  "total_tokens_formatted": "79.7k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "👥 飞书集成",
+      "label": "👥 任务调度",
       "status": "🔄 处理中",
-      "tokens": 81600,
+      "tokens": 79647,
       "type": "session",
       "last_role": "assistant",
-      "category": "研究",
-      "category_icon": "🔬",
-      "category_description": "数据分析、竞品调研、技术方案设计"
+      "category": "开发",
+      "category_icon": "⚙️",
+      "category_description": "后端服务、API开发、自动化脚本、技术基建"
     },
     {
       "label": "💬 私聊",
@@ -54,7 +54,7 @@
     },
     {
       "label": "💬 私聊",
-      "status": "💡 活跃中",
+      "status": "✅ 已回复",
       "tokens": 19,
       "type": "session",
       "last_role": "assistant",
@@ -63,7 +63,7 @@
       "category_description": "临时任务、待分类事项、杂项"
     }
   ],
-  "cpu_percent": 0.5,
+  "cpu_percent": 0.0,
   "memory_percent": 45.7,
   "workflow_details": [],
   "build_details": []
