@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-31T03:13:02.461449+00:00",
+  "timestamp": "2026-03-31T03:15:02.229791+00:00",
   "cognitive_score": 16.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -73,7 +73,7 @@
       "category_description": "临时任务、待分类事项、杂项"
     }
   ],
-  "cpu_percent": 0.0,
+  "cpu_percent": 1.5,
   "memory_percent": 45.9,
   "workflow_details": [],
   "build_details": []
