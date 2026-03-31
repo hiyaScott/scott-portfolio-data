@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-31T01:29:02.338065+00:00",
+  "timestamp": "2026-03-31T01:31:03.122846+00:00",
   "cognitive_score": 61.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -44,7 +44,7 @@
     },
     {
       "label": "💬 任务调度",
-      "status": "💤 29分钟前活跃",
+      "status": "💤 31分钟前活跃",
       "tokens": 121,
       "type": "session",
       "last_role": "user",
@@ -54,7 +54,7 @@
     }
   ],
   "cpu_percent": 0.0,
-  "memory_percent": 46.0,
+  "memory_percent": 46.3,
   "workflow_details": [],
   "build_details": []
 }
