@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-31T08:57:02.491447+00:00",
+  "timestamp": "2026-03-31T08:59:02.268003+00:00",
   "cognitive_score": 26.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -34,7 +34,7 @@
   "task_queue": [
     {
       "label": "💬 心跳监控",
-      "status": "💤 11分钟前活跃",
+      "status": "💤 13分钟前活跃",
       "tokens": 1237,
       "type": "session",
       "last_role": "user",
@@ -44,7 +44,7 @@
     },
     {
       "label": "👥 代码提交",
-      "status": "💡 活跃中",
+      "status": "✅ 已回复",
       "tokens": 66005,
       "type": "session",
       "last_role": "assistant",
@@ -53,7 +53,7 @@
       "category_description": "后端服务、API开发、自动化脚本、技术基建"
     }
   ],
-  "cpu_percent": 0.5,
+  "cpu_percent": 0.0,
   "memory_percent": 34.4,
   "workflow_details": [],
   "build_details": []
