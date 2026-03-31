@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-31T01:25:02.637110+00:00",
+  "timestamp": "2026-03-31T01:27:02.502854+00:00",
   "cognitive_score": 61.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -27,24 +27,24 @@
   "processing_count": 1,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 703099,
-  "total_tokens_formatted": "703.1k",
+  "total_tokens": 718165,
+  "total_tokens_formatted": "718.2k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "👥 Bug修复",
+      "label": "👥 GitHub操作",
       "status": "🔄 处理中",
-      "tokens": 702978,
+      "tokens": 718044,
       "type": "session",
       "last_role": "assistant",
-      "category": "作品",
-      "category_icon": "🎮",
-      "category_description": "游戏开发、交互页面、创意工具、前端开发"
+      "category": "研究",
+      "category_icon": "🔬",
+      "category_description": "数据分析、竞品调研、技术方案设计"
     },
     {
       "label": "💬 任务调度",
-      "status": "💤 25分钟前活跃",
+      "status": "💤 27分钟前活跃",
       "tokens": 121,
       "type": "session",
       "last_role": "user",
@@ -53,8 +53,8 @@
       "category_description": "飞书对话、状态监控、定时任务、系统维护"
     }
   ],
-  "cpu_percent": 1.0,
-  "memory_percent": 45.8,
+  "cpu_percent": 0.5,
+  "memory_percent": 45.9,
   "workflow_details": [],
   "build_details": []
 }
