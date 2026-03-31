@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-31T16:55:02.423641+00:00",
+  "timestamp": "2026-03-31T16:57:03.062787+00:00",
   "cognitive_score": 9.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -27,15 +27,15 @@
   "processing_count": 1,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 51393,
-  "total_tokens_formatted": "51.4k",
+  "total_tokens": 45137,
+  "total_tokens_formatted": "45.1k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "💬 前端开发",
+      "label": "💬 GitHub操作",
       "status": "🔄 处理中",
-      "tokens": 51393,
+      "tokens": 45137,
       "type": "session",
       "last_role": "assistant",
       "category": "开发",
@@ -43,7 +43,7 @@
       "category_description": "后端服务、API开发、自动化脚本、技术基建"
     }
   ],
-  "cpu_percent": 0.5,
+  "cpu_percent": 1.5,
   "memory_percent": 36.9,
   "workflow_details": [],
   "build_details": []
