@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-01T09:51:02.525233+00:00",
+  "timestamp": "2026-04-01T09:53:02.325880+00:00",
   "cognitive_score": 15.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -27,24 +27,24 @@
   "processing_count": 1,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 262638,
-  "total_tokens_formatted": "262.6k",
+  "total_tokens": 261580,
+  "total_tokens_formatted": "261.6k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "💬 CI/CD",
+      "label": "💬 AI开发",
       "status": "🔄 处理中",
-      "tokens": 262638,
+      "tokens": 261580,
       "type": "session",
       "last_role": "assistant",
-      "category": "作品",
-      "category_icon": "🎮",
-      "category_description": "游戏开发、交互页面、创意工具、前端开发"
+      "category": "研究",
+      "category_icon": "🔬",
+      "category_description": "数据分析、竞品调研、技术方案设计"
     }
   ],
-  "cpu_percent": 0.0,
-  "memory_percent": 37.8,
+  "cpu_percent": 0.5,
+  "memory_percent": 38.3,
   "workflow_details": [],
   "build_details": []
 }
