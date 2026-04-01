@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-01T19:37:02.459798+00:00",
+  "timestamp": "2026-04-01T19:39:02.369013+00:00",
   "cognitive_score": 46.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -27,15 +27,15 @@
   "processing_count": 1,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 1177389,
-  "total_tokens_formatted": "1177.4k",
+  "total_tokens": 1150586,
+  "total_tokens_formatted": "1150.6k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "💬 服务器运维",
+      "label": "💬 心跳监控",
       "status": "🔄 处理中",
-      "tokens": 452337,
+      "tokens": 425534,
       "type": "session",
       "last_role": "assistant",
       "category": "作品",
@@ -53,8 +53,8 @@
       "category_description": "游戏开发、交互页面、创意工具、前端开发"
     }
   ],
-  "cpu_percent": 0.5,
-  "memory_percent": 41.7,
+  "cpu_percent": 0.0,
+  "memory_percent": 40.5,
   "workflow_details": [],
   "build_details": []
 }
