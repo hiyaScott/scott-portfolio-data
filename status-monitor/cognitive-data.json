@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-01T18:17:02.966968+00:00",
-  "cognitive_score": 48.0,
+  "timestamp": "2026-04-01T18:19:02.965747+00:00",
+  "cognitive_score": 53.0,
   "score_breakdown": {
     "wait_score": 0,
     "token_score": 0,
@@ -8,14 +8,14 @@
     "active_score": 0,
     "system_score": 0,
     "processing_bonus": 0,
-    "base_score": 48.0,
-    "final_score": 48.0,
+    "base_score": 53.0,
+    "final_score": 53.0,
     "active_sessions": 2,
     "recent_active": 2,
     "tool_calls": 0,
     "pending": 1,
     "processing": 1,
-    "estimated_response": 30
+    "estimated_response": 60
   },
   "status_code": "medium",
   "status_text": "🟡 轻负载",
@@ -27,15 +27,15 @@
   "processing_count": 1,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 661991,
-  "total_tokens_formatted": "662.0k",
+  "total_tokens": 666815,
+  "total_tokens_formatted": "666.8k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
       "label": "👥 飞书集成",
       "status": "🔄 处理中",
-      "tokens": 622991,
+      "tokens": 627815,
       "type": "session",
       "last_role": "assistant",
       "category": "作品",
@@ -44,7 +44,7 @@
     },
     {
       "label": "💬 GitHub操作",
-      "status": "💤 4分钟前活跃",
+      "status": "💤 6分钟前活跃",
       "tokens": 39000,
       "type": "session",
       "last_role": "user",
@@ -54,7 +54,7 @@
     }
   ],
   "cpu_percent": 0.0,
-  "memory_percent": 40.7,
+  "memory_percent": 41.1,
   "workflow_details": [],
   "build_details": []
 }
