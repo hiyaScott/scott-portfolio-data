@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-01T18:09:02.689154+00:00",
+  "timestamp": "2026-04-01T18:11:02.507148+00:00",
   "cognitive_score": 45.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -27,15 +27,15 @@
   "processing_count": 1,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 571893,
-  "total_tokens_formatted": "571.9k",
+  "total_tokens": 573606,
+  "total_tokens_formatted": "573.6k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
       "label": "👥 飞书集成",
       "status": "🔄 处理中",
-      "tokens": 531647,
+      "tokens": 533360,
       "type": "session",
       "last_role": "assistant",
       "category": "作品",
@@ -44,7 +44,7 @@
     },
     {
       "label": "💬 K8s运维",
-      "status": "💤 2分钟前活跃",
+      "status": "💤 4分钟前活跃",
       "tokens": 40246,
       "type": "session",
       "last_role": "user",
@@ -54,7 +54,7 @@
     }
   ],
   "cpu_percent": 0.0,
-  "memory_percent": 40.3,
+  "memory_percent": 40.7,
   "workflow_details": [],
   "build_details": []
 }
