@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-03T15:27:03.106500+00:00",
+  "timestamp": "2026-04-03T15:29:02.532486+00:00",
   "cognitive_score": 27.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -33,24 +33,24 @@
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "💬 心跳监控",
-      "status": "💡 活跃中",
-      "tokens": 5631,
-      "type": "session",
-      "last_role": "assistant",
-      "category": "开发",
-      "category_icon": "⚙️",
-      "category_description": "后端服务、API开发、自动化脚本、技术基建"
-    },
-    {
       "label": "💬 版本发布",
-      "status": "💤 10分钟前活跃",
+      "status": "💤 12分钟前活跃",
       "tokens": 33996,
       "type": "session",
       "last_role": "user",
       "category": "作品",
       "category_icon": "🎮",
       "category_description": "游戏开发、交互页面、创意工具、前端开发"
+    },
+    {
+      "label": "💬 心跳监控",
+      "status": "✅ 已回复",
+      "tokens": 5631,
+      "type": "session",
+      "last_role": "assistant",
+      "category": "开发",
+      "category_icon": "⚙️",
+      "category_description": "后端服务、API开发、自动化脚本、技术基建"
     }
   ],
   "cpu_percent": 0.0,
