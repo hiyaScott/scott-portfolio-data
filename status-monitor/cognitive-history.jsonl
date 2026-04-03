@@ -22452,3 +22452,5 @@
 {"timestamp": "2026-04-03T21:11:02.729906+00:00", "score": 27.0, "sessions": 1, "pending": 1, "processing": 0, "tokens": 218, "cpu": 0.0, "memory": 46.7}
 {"timestamp": "2026-04-03T21:12:02.256960+00:00", "score": 27.0, "sessions": 1, "pending": 1, "processing": 0, "tokens": 218, "cpu": 0.0, "memory": 46.3}
 {"timestamp": "2026-04-03T21:13:02.359865+00:00", "score": 7.0, "sessions": 1, "pending": 1, "processing": 0, "tokens": 327, "cpu": 0.0, "memory": 46.2}
+{"timestamp": "2026-04-03T21:14:02.891013+00:00", "score": 7.0, "sessions": 1, "pending": 1, "processing": 0, "tokens": 327, "cpu": 1.0, "memory": 46.7}
+{"timestamp": "2026-04-03T21:15:03.118535+00:00", "score": 17.0, "sessions": 1, "pending": 1, "processing": 0, "tokens": 327, "cpu": 0.0, "memory": 46.7}
