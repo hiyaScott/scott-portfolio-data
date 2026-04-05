@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-05T15:21:02.654822+00:00",
+  "timestamp": "2026-04-05T15:23:03.038678+00:00",
   "cognitive_score": 2.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -44,7 +44,7 @@
     },
     {
       "label": "💬 版本发布",
-      "status": "💡 活跃中",
+      "status": "✅ 已回复",
       "tokens": 6308,
       "type": "session",
       "last_role": "assistant",
@@ -54,7 +54,7 @@
     }
   ],
   "cpu_percent": 0.0,
-  "memory_percent": 55.3,
+  "memory_percent": 55.5,
   "workflow_details": [],
   "build_details": []
 }
