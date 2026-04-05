@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-05T06:03:03.092183+00:00",
+  "timestamp": "2026-04-05T06:05:02.557582+00:00",
   "cognitive_score": 32.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -27,15 +27,15 @@
   "processing_count": 1,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 53847,
-  "total_tokens_formatted": "53.8k",
+  "total_tokens": 49151,
+  "total_tokens_formatted": "49.2k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "👥 PR审查",
+      "label": "💬 数据库",
       "status": "🔄 处理中",
-      "tokens": 51558,
+      "tokens": 46862,
       "type": "session",
       "last_role": "assistant",
       "category": "作品",
@@ -44,7 +44,7 @@
     },
     {
       "label": "💬 心跳监控",
-      "status": "💤 6分钟前活跃",
+      "status": "💤 8分钟前活跃",
       "tokens": 2289,
       "type": "session",
       "last_role": "user",
@@ -54,7 +54,7 @@
     }
   ],
   "cpu_percent": 0.0,
-  "memory_percent": 50.4,
+  "memory_percent": 51.4,
   "workflow_details": [],
   "build_details": []
 }
