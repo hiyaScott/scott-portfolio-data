@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-05T05:55:02.934331+00:00",
-  "cognitive_score": 37.0,
+  "timestamp": "2026-04-05T05:57:02.263267+00:00",
+  "cognitive_score": 17.0,
   "score_breakdown": {
     "wait_score": 0,
     "token_score": 0,
@@ -8,18 +8,18 @@
     "active_score": 0,
     "system_score": 0,
     "processing_bonus": 0,
-    "base_score": 37.0,
-    "final_score": 37.0,
+    "base_score": 17.0,
+    "final_score": 17.0,
     "active_sessions": 2,
     "recent_active": 2,
     "tool_calls": 0,
     "pending": 1,
     "processing": 1,
-    "estimated_response": 30
+    "estimated_response": 15
   },
-  "status_code": "medium",
-  "status_text": "🟡 轻负载",
-  "suggestion": "30秒内响应",
+  "status_code": "low",
+  "status_text": "🟢 空闲",
+  "suggestion": "可立即响应",
   "active_sessions": 2,
   "recent_active_count": 2,
   "total_tool_calls": 0,
@@ -27,15 +27,15 @@
   "processing_count": 1,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 37720,
-  "total_tokens_formatted": "37.7k",
+  "total_tokens": 49773,
+  "total_tokens_formatted": "49.8k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
       "label": "👥 飞书集成",
       "status": "🔄 处理中",
-      "tokens": 35540,
+      "tokens": 47484,
       "type": "session",
       "last_role": "assistant",
       "category": "研究",
@@ -44,8 +44,8 @@
     },
     {
       "label": "💬 心跳监控",
-      "status": "💤 12分钟前活跃",
-      "tokens": 2180,
+      "status": "💤 9秒前活跃",
+      "tokens": 2289,
       "type": "session",
       "last_role": "user",
       "category": "系统",
@@ -53,8 +53,8 @@
       "category_description": "飞书对话、状态监控、定时任务、系统维护"
     }
   ],
-  "cpu_percent": 1.0,
-  "memory_percent": 51.3,
+  "cpu_percent": 0.0,
+  "memory_percent": 50.1,
   "workflow_details": [],
   "build_details": []
 }
