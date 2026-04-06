@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-06T06:57:02.887170+00:00",
+  "timestamp": "2026-04-06T06:59:02.186996+00:00",
   "cognitive_score": 35.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -34,7 +34,7 @@
   "task_queue": [
     {
       "label": "👥 飞书集成",
-      "status": "💤 57分钟前活跃",
+      "status": "💤 59分钟前活跃",
       "tokens": 10757,
       "type": "session",
       "last_role": "user",
@@ -44,7 +44,7 @@
     },
     {
       "label": "💬 心跳监控",
-      "status": "💤 9分钟前活跃",
+      "status": "💤 11分钟前活跃",
       "tokens": 2289,
       "type": "session",
       "last_role": "user",
