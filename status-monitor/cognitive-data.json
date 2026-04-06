@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-06T11:03:02.243925+00:00",
+  "timestamp": "2026-04-06T11:05:02.525444+00:00",
   "cognitive_score": 37.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -27,15 +27,15 @@
   "processing_count": 1,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 77770,
-  "total_tokens_formatted": "77.8k",
+  "total_tokens": 77309,
+  "total_tokens_formatted": "77.3k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "👥 前端开发",
+      "label": "👥 战棋研究",
       "status": "🔄 处理中",
-      "tokens": 74827,
+      "tokens": 74366,
       "type": "session",
       "last_role": "assistant",
       "category": "研究",
@@ -44,7 +44,7 @@
     },
     {
       "label": "💬 心跳监控",
-      "status": "💤 45分钟前活跃",
+      "status": "💤 47分钟前活跃",
       "tokens": 2943,
       "type": "session",
       "last_role": "user",
@@ -54,7 +54,7 @@
     }
   ],
   "cpu_percent": 0.0,
-  "memory_percent": 58.0,
+  "memory_percent": 57.8,
   "workflow_details": [],
   "build_details": []
 }
