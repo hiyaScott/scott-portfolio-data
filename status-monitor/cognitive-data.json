@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-07T15:21:02.290755+00:00",
-  "cognitive_score": 11.0,
+  "timestamp": "2026-04-07T15:23:02.939241+00:00",
+  "cognitive_score": 3.0,
   "score_breakdown": {
     "wait_score": 0,
     "token_score": 0,
@@ -8,13 +8,13 @@
     "active_score": 0,
     "system_score": 0,
     "processing_bonus": 0,
-    "base_score": 11.0,
-    "final_score": 11.0,
+    "base_score": 3.0,
+    "final_score": 3.0,
     "active_sessions": 2,
     "recent_active": 2,
     "tool_calls": 0,
     "pending": 0,
-    "processing": 1,
+    "processing": 0,
     "estimated_response": 0
   },
   "status_code": "low",
@@ -24,18 +24,18 @@
   "recent_active_count": 2,
   "total_tool_calls": 0,
   "pending_count": 0,
-  "processing_count": 1,
+  "processing_count": 0,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 48180,
-  "total_tokens_formatted": "48.2k",
+  "total_tokens": 49760,
+  "total_tokens_formatted": "49.8k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
       "label": "💬 GitHub操作",
-      "status": "🔄 处理中",
-      "tokens": 39574,
+      "status": "💡 活跃中",
+      "tokens": 41154,
       "type": "session",
       "last_role": "assistant",
       "category": "研究",
@@ -44,7 +44,7 @@
     },
     {
       "label": "💬 版本发布",
-      "status": "💡 活跃中",
+      "status": "✅ 已回复",
       "tokens": 8606,
       "type": "session",
       "last_role": "assistant",
@@ -53,8 +53,8 @@
       "category_description": "数据分析、竞品调研、技术方案设计"
     }
   ],
-  "cpu_percent": 0.0,
-  "memory_percent": 62.0,
+  "cpu_percent": 0.5,
+  "memory_percent": 61.6,
   "workflow_details": [],
   "build_details": []
 }
