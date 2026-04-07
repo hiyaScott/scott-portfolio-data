@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-07T15:43:02.602271+00:00",
-  "cognitive_score": 23.0,
+  "timestamp": "2026-04-07T15:45:02.210861+00:00",
+  "cognitive_score": 11.0,
   "score_breakdown": {
     "wait_score": 0,
     "token_score": 0,
@@ -8,14 +8,14 @@
     "active_score": 0,
     "system_score": 0,
     "processing_bonus": 0,
-    "base_score": 23.0,
-    "final_score": 23.0,
+    "base_score": 11.0,
+    "final_score": 11.0,
     "active_sessions": 2,
     "recent_active": 2,
     "tool_calls": 0,
-    "pending": 1,
-    "processing": 0,
-    "estimated_response": 15
+    "pending": 0,
+    "processing": 1,
+    "estimated_response": 0
   },
   "status_code": "low",
   "status_text": "🟢 空闲",
@@ -23,21 +23,21 @@
   "active_sessions": 2,
   "recent_active_count": 2,
   "total_tool_calls": 0,
-  "pending_count": 1,
-  "processing_count": 0,
+  "pending_count": 0,
+  "processing_count": 1,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 45872,
+  "total_tokens": 45892,
   "total_tokens_formatted": "45.9k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
       "label": "💬 GitHub操作",
-      "status": "💤 7分钟前活跃",
-      "tokens": 37266,
+      "status": "🔄 处理中",
+      "tokens": 37286,
       "type": "session",
-      "last_role": "user",
+      "last_role": "assistant",
       "category": "作品",
       "category_icon": "🎮",
       "category_description": "游戏开发、交互页面、创意工具、前端开发"
@@ -53,8 +53,8 @@
       "category_description": "数据分析、竞品调研、技术方案设计"
     }
   ],
-  "cpu_percent": 0.0,
-  "memory_percent": 61.6,
+  "cpu_percent": 0.5,
+  "memory_percent": 62.4,
   "workflow_details": [],
   "build_details": []
 }
