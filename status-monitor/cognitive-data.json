@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-07T08:17:02.151146+00:00",
-  "cognitive_score": 3.0,
+  "timestamp": "2026-04-07T08:19:02.807754+00:00",
+  "cognitive_score": 8.0,
   "score_breakdown": {
     "wait_score": 0,
     "token_score": 0,
@@ -8,12 +8,12 @@
     "active_score": 0,
     "system_score": 0,
     "processing_bonus": 0,
-    "base_score": 3.0,
-    "final_score": 3.0,
+    "base_score": 8.0,
+    "final_score": 8.0,
     "active_sessions": 1,
     "recent_active": 1,
     "tool_calls": 0,
-    "pending": 0,
+    "pending": 1,
     "processing": 0,
     "estimated_response": 0
   },
@@ -23,28 +23,28 @@
   "active_sessions": 1,
   "recent_active_count": 1,
   "total_tool_calls": 0,
-  "pending_count": 0,
+  "pending_count": 1,
   "processing_count": 0,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 69299,
-  "total_tokens_formatted": "69.3k",
+  "total_tokens": 67203,
+  "total_tokens_formatted": "67.2k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "💬 代码合并",
-      "status": "💡 活跃中",
-      "tokens": 69299,
+      "label": "💬 代码提交",
+      "status": "💤 1分钟前活跃",
+      "tokens": 67203,
       "type": "session",
-      "last_role": "assistant",
+      "last_role": "user",
       "category": "研究",
       "category_icon": "🔬",
       "category_description": "数据分析、竞品调研、技术方案设计"
     }
   ],
-  "cpu_percent": 0.0,
-  "memory_percent": 65.4,
+  "cpu_percent": 0.5,
+  "memory_percent": 65.7,
   "workflow_details": [],
   "build_details": []
 }
