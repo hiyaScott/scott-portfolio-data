@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-07T14:49:02.944290+00:00",
+  "timestamp": "2026-04-07T14:51:02.397209+00:00",
   "cognitive_score": 28.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -34,7 +34,7 @@
   "task_queue": [
     {
       "label": "💬 前端开发",
-      "status": "💤 13分钟前活跃",
+      "status": "💤 15分钟前活跃",
       "tokens": 41627,
       "type": "session",
       "last_role": "user",
