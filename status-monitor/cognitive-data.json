@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-07T19:47:02.733592+00:00",
+  "timestamp": "2026-04-07T19:49:02.616394+00:00",
   "cognitive_score": 28.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -34,7 +34,7 @@
   "task_queue": [
     {
       "label": "💬 代码版本",
-      "status": "💤 11分钟前活跃",
+      "status": "💤 13分钟前活跃",
       "tokens": 45952,
       "type": "session",
       "last_role": "user",
@@ -43,8 +43,8 @@
       "category_description": "后端服务、API开发、自动化脚本、技术基建"
     }
   ],
-  "cpu_percent": 0.5,
-  "memory_percent": 62.2,
+  "cpu_percent": 0.0,
+  "memory_percent": 63.1,
   "workflow_details": [],
   "build_details": []
 }
