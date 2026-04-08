@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-08T18:19:02.381379+00:00",
+  "timestamp": "2026-04-08T18:21:02.303513+00:00",
   "cognitive_score": 18.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -34,7 +34,7 @@
   "task_queue": [
     {
       "label": "💬 GitHub操作",
-      "status": "💤 2分钟前活跃",
+      "status": "💤 4分钟前活跃",
       "tokens": 26280,
       "type": "session",
       "last_role": "user",
@@ -43,8 +43,8 @@
       "category_description": "飞书对话、状态监控、定时任务、系统维护"
     }
   ],
-  "cpu_percent": 0.0,
-  "memory_percent": 69.3,
+  "cpu_percent": 0.5,
+  "memory_percent": 68.7,
   "workflow_details": [],
   "build_details": []
 }
