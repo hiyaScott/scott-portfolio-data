@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-08T14:19:02.980501+00:00",
+  "timestamp": "2026-04-08T14:21:02.924475+00:00",
   "cognitive_score": 18.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -34,7 +34,7 @@
   "task_queue": [
     {
       "label": "💬 心跳监控",
-      "status": "💤 2分钟前活跃",
+      "status": "💤 4分钟前活跃",
       "tokens": 34399,
       "type": "session",
       "last_role": "user",
