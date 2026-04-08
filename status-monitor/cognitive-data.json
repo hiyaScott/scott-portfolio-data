@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-08T16:53:02.544424+00:00",
+  "timestamp": "2026-04-08T16:55:02.217763+00:00",
   "cognitive_score": 23.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -34,7 +34,7 @@
   "task_queue": [
     {
       "label": "💬 前端开发",
-      "status": "💤 6分钟前活跃",
+      "status": "💤 8分钟前活跃",
       "tokens": 28720,
       "type": "session",
       "last_role": "user",
@@ -43,8 +43,8 @@
       "category_description": "飞书对话、状态监控、定时任务、系统维护"
     }
   ],
-  "cpu_percent": 0.5,
-  "memory_percent": 69.0,
+  "cpu_percent": 0.0,
+  "memory_percent": 68.2,
   "workflow_details": [],
   "build_details": []
 }
