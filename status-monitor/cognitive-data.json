@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-08T15:13:02.144924+00:00",
+  "timestamp": "2026-04-08T15:15:02.562167+00:00",
   "cognitive_score": 28.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -34,7 +34,7 @@
   "task_queue": [
     {
       "label": "💬 心跳监控",
-      "status": "💤 26分钟前活跃",
+      "status": "💤 28分钟前活跃",
       "tokens": 34400,
       "type": "session",
       "last_role": "user",
@@ -43,8 +43,8 @@
       "category_description": "游戏开发、交互页面、创意工具、前端开发"
     }
   ],
-  "cpu_percent": 0.0,
-  "memory_percent": 69.3,
+  "cpu_percent": 0.5,
+  "memory_percent": 68.7,
   "workflow_details": [],
   "build_details": []
 }
