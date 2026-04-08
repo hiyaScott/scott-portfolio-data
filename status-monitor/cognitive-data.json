@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-08T04:55:02.487121+00:00",
+  "timestamp": "2026-04-08T04:57:02.709413+00:00",
   "cognitive_score": 6.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -53,8 +53,8 @@
       "category_description": "数据分析、竞品调研、技术方案设计"
     }
   ],
-  "cpu_percent": 0.0,
-  "memory_percent": 66.2,
+  "cpu_percent": 0.5,
+  "memory_percent": 66.3,
   "workflow_details": [],
   "build_details": []
 }
