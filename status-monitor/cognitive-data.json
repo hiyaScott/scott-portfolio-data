@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-08T11:11:03.045963+00:00",
+  "timestamp": "2026-04-08T11:13:03.107313+00:00",
   "cognitive_score": 28.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -34,7 +34,7 @@
   "task_queue": [
     {
       "label": "💬 飞书集成",
-      "status": "💤 24分钟前活跃",
+      "status": "💤 26分钟前活跃",
       "tokens": 48591,
       "type": "session",
       "last_role": "user",
@@ -43,8 +43,8 @@
       "category_description": "游戏开发、交互页面、创意工具、前端开发"
     }
   ],
-  "cpu_percent": 0.0,
-  "memory_percent": 67.3,
+  "cpu_percent": 0.5,
+  "memory_percent": 66.7,
   "workflow_details": [],
   "build_details": []
 }
