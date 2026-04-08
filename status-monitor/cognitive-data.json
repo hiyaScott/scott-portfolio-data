@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-08T06:05:02.924580+00:00",
+  "timestamp": "2026-04-08T06:07:02.998182+00:00",
   "cognitive_score": 26.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -27,24 +27,24 @@
   "processing_count": 0,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 121882,
-  "total_tokens_formatted": "121.9k",
+  "total_tokens": 123684,
+  "total_tokens_formatted": "123.7k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "💬 UI设计",
-      "status": "💤 5分钟前活跃",
-      "tokens": 121882,
+      "label": "💬 Bug修复",
+      "status": "💤 7分钟前活跃",
+      "tokens": 123684,
       "type": "session",
       "last_role": "user",
-      "category": "开发",
-      "category_icon": "⚙️",
-      "category_description": "后端服务、API开发、自动化脚本、技术基建"
+      "category": "研究",
+      "category_icon": "🔬",
+      "category_description": "数据分析、竞品调研、技术方案设计"
     }
   ],
-  "cpu_percent": 0.0,
-  "memory_percent": 69.9,
+  "cpu_percent": 0.5,
+  "memory_percent": 70.1,
   "workflow_details": [],
   "build_details": []
 }
