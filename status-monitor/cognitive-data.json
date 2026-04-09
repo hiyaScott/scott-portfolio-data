@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-09T03:29:02.917468+00:00",
+  "timestamp": "2026-04-09T03:31:02.353641+00:00",
   "cognitive_score": 28.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -34,7 +34,7 @@
   "task_queue": [
     {
       "label": "💬 心跳监控",
-      "status": "💤 12分钟前活跃",
+      "status": "💤 14分钟前活跃",
       "tokens": 3040,
       "type": "session",
       "last_role": "user",
@@ -43,8 +43,8 @@
       "category_description": "后端服务、API开发、自动化脚本、技术基建"
     }
   ],
-  "cpu_percent": 0.0,
-  "memory_percent": 70.1,
+  "cpu_percent": 0.5,
+  "memory_percent": 70.2,
   "workflow_details": [],
   "build_details": []
 }
