@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-09T12:07:02.535197+00:00",
-  "cognitive_score": 47.0,
+  "timestamp": "2026-04-09T12:09:03.108992+00:00",
+  "cognitive_score": 18.0,
   "score_breakdown": {
     "wait_score": 0,
     "token_score": 0,
@@ -8,27 +8,27 @@
     "active_score": 0,
     "system_score": 0,
     "processing_bonus": 0,
-    "base_score": 47.0,
-    "final_score": 47.0,
+    "base_score": 18.0,
+    "final_score": 18.0,
     "active_sessions": 3,
     "recent_active": 3,
     "tool_calls": 0,
     "pending": 1,
-    "processing": 2,
-    "estimated_response": 30
+    "processing": 1,
+    "estimated_response": 15
   },
-  "status_code": "medium",
-  "status_text": "🟡 轻负载",
-  "suggestion": "30秒内响应",
+  "status_code": "low",
+  "status_text": "🟢 空闲",
+  "suggestion": "可立即响应",
   "active_sessions": 3,
   "recent_active_count": 3,
   "total_tool_calls": 0,
   "pending_count": 1,
-  "processing_count": 2,
+  "processing_count": 1,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 92345,
-  "total_tokens_formatted": "92.3k",
+  "total_tokens": 91899,
+  "total_tokens_formatted": "91.9k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
@@ -44,8 +44,8 @@
     },
     {
       "label": "🤖 飞书集成",
-      "status": "🔄 处理中",
-      "tokens": 46129,
+      "status": "💡 活跃中",
+      "tokens": 47443,
       "type": "session",
       "last_role": "assistant",
       "category": "研究",
@@ -54,8 +54,8 @@
     },
     {
       "label": "💬 前端开发",
-      "status": "💤 26分钟前活跃",
-      "tokens": 44523,
+      "status": "💤 1分钟前活跃",
+      "tokens": 42763,
       "type": "session",
       "last_role": "user",
       "category": "系统",
@@ -64,7 +64,7 @@
     }
   ],
   "cpu_percent": 1.0,
-  "memory_percent": 72.4,
+  "memory_percent": 73.0,
   "workflow_details": [],
   "build_details": []
 }
