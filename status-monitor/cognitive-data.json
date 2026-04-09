@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-09T08:15:02.972225+00:00",
+  "timestamp": "2026-04-09T08:17:03.017782+00:00",
   "cognitive_score": 18.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -34,7 +34,7 @@
   "task_queue": [
     {
       "label": "💬 K8s运维",
-      "status": "💤 2分钟前活跃",
+      "status": "💤 4分钟前活跃",
       "tokens": 54022,
       "type": "session",
       "last_role": "user",
@@ -43,8 +43,8 @@
       "category_description": "数据分析、竞品调研、技术方案设计"
     }
   ],
-  "cpu_percent": 0.5,
-  "memory_percent": 72.2,
+  "cpu_percent": 0.0,
+  "memory_percent": 72.6,
   "workflow_details": [],
   "build_details": []
 }
