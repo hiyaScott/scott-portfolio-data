@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-09T16:15:02.297652+00:00",
+  "timestamp": "2026-04-09T16:17:02.988715+00:00",
   "cognitive_score": 26.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -34,7 +34,7 @@
   "task_queue": [
     {
       "label": "💬 代码版本",
-      "status": "💤 7分钟前活跃",
+      "status": "💤 9分钟前活跃",
       "tokens": 34931,
       "type": "session",
       "last_role": "user",
@@ -63,8 +63,8 @@
       "category_description": "游戏开发、交互页面、创意工具、前端开发"
     }
   ],
-  "cpu_percent": 0.0,
-  "memory_percent": 74.0,
+  "cpu_percent": 0.5,
+  "memory_percent": 73.6,
   "workflow_details": [],
   "build_details": []
 }
