@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-09T13:27:03.080945+00:00",
+  "timestamp": "2026-04-09T13:29:02.650129+00:00",
   "cognitive_score": 41.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -27,15 +27,15 @@
   "processing_count": 1,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 112650,
-  "total_tokens_formatted": "112.7k",
+  "total_tokens": 113292,
+  "total_tokens_formatted": "113.3k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "👥 Bug修复",
+      "label": "👥 前端开发",
       "status": "🔄 处理中",
-      "tokens": 72912,
+      "tokens": 73554,
       "type": "session",
       "last_role": "assistant",
       "category": "作品",
@@ -44,7 +44,7 @@
     },
     {
       "label": "💬 代码提交",
-      "status": "💤 19分钟前活跃",
+      "status": "💤 21分钟前活跃",
       "tokens": 39738,
       "type": "session",
       "last_role": "user",
@@ -53,8 +53,8 @@
       "category_description": "飞书对话、状态监控、定时任务、系统维护"
     }
   ],
-  "cpu_percent": 0.5,
-  "memory_percent": 73.8,
+  "cpu_percent": 0.0,
+  "memory_percent": 73.5,
   "workflow_details": [],
   "build_details": []
 }
