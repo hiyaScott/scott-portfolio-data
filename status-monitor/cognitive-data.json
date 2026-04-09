@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-09T15:53:02.668394+00:00",
+  "timestamp": "2026-04-09T15:55:02.247540+00:00",
   "cognitive_score": 31.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -34,7 +34,7 @@
   "task_queue": [
     {
       "label": "💬 数据库",
-      "status": "💤 15分钟前活跃",
+      "status": "💤 17分钟前活跃",
       "tokens": 37687,
       "type": "session",
       "last_role": "user",
@@ -64,7 +64,7 @@
     }
   ],
   "cpu_percent": 0.0,
-  "memory_percent": 74.4,
+  "memory_percent": 73.5,
   "workflow_details": [],
   "build_details": []
 }
