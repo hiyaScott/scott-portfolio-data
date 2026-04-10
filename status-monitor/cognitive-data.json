@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-10T10:51:02.734950+00:00",
+  "timestamp": "2026-04-10T10:53:02.161865+00:00",
   "cognitive_score": 23.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -27,15 +27,15 @@
   "processing_count": 0,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 49286,
-  "total_tokens_formatted": "49.3k",
+  "total_tokens": 55490,
+  "total_tokens_formatted": "55.5k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "💬 PR审查",
-      "status": "💤 6分钟前活跃",
-      "tokens": 49286,
+      "label": "💬 代码提交",
+      "status": "💤 8分钟前活跃",
+      "tokens": 55490,
       "type": "session",
       "last_role": "user",
       "category": "作品",
@@ -43,8 +43,8 @@
       "category_description": "游戏开发、交互页面、创意工具、前端开发"
     }
   ],
-  "cpu_percent": 1.0,
-  "memory_percent": 76.0,
+  "cpu_percent": 0.5,
+  "memory_percent": 77.6,
   "workflow_details": [],
   "build_details": []
 }
