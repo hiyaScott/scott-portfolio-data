@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-10T07:59:02.709804+00:00",
-  "cognitive_score": 35.0,
+  "timestamp": "2026-04-10T08:01:03.137445+00:00",
+  "cognitive_score": 29.0,
   "score_breakdown": {
     "wait_score": 0,
     "token_score": 0,
@@ -8,8 +8,8 @@
     "active_score": 0,
     "system_score": 0,
     "processing_bonus": 0,
-    "base_score": 35.0,
-    "final_score": 35.0,
+    "base_score": 29.0,
+    "final_score": 29.0,
     "active_sessions": 1,
     "recent_active": 1,
     "tool_calls": 0,
@@ -17,9 +17,9 @@
     "processing": 1,
     "estimated_response": 15
   },
-  "status_code": "medium",
-  "status_text": "🟡 轻负载",
-  "suggestion": "30秒内响应",
+  "status_code": "low",
+  "status_text": "🟢 空闲",
+  "suggestion": "可立即响应",
   "active_sessions": 1,
   "recent_active_count": 1,
   "total_tool_calls": 0,
@@ -27,15 +27,15 @@
   "processing_count": 1,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 718409,
-  "total_tokens_formatted": "718.4k",
+  "total_tokens": 542646,
+  "total_tokens_formatted": "542.6k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "💬 GitHub操作",
+      "label": "💬 战棋研究",
       "status": "🔄 处理中",
-      "tokens": 718409,
+      "tokens": 542646,
       "type": "session",
       "last_role": "assistant",
       "category": "研究",
@@ -44,7 +44,7 @@
     }
   ],
   "cpu_percent": 0.0,
-  "memory_percent": 77.8,
+  "memory_percent": 78.5,
   "workflow_details": [],
   "build_details": []
 }
