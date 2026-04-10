@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-10T15:11:03.112660+00:00",
+  "timestamp": "2026-04-10T15:13:02.334475+00:00",
   "cognitive_score": 8.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -27,15 +27,15 @@
   "processing_count": 0,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 44063,
-  "total_tokens_formatted": "44.1k",
+  "total_tokens": 43648,
+  "total_tokens_formatted": "43.6k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "💬 游戏设计",
-      "status": "💤 52秒前活跃",
-      "tokens": 44063,
+      "label": "💬 前端开发",
+      "status": "💤 15秒前活跃",
+      "tokens": 43648,
       "type": "session",
       "last_role": "user",
       "category": "研究",
@@ -43,8 +43,8 @@
       "category_description": "数据分析、竞品调研、技术方案设计"
     }
   ],
-  "cpu_percent": 0.0,
-  "memory_percent": 76.0,
+  "cpu_percent": 0.5,
+  "memory_percent": 76.3,
   "workflow_details": [],
   "build_details": []
 }
