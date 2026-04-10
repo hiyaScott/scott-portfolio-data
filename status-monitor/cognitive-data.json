@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-10T08:55:02.160902+00:00",
+  "timestamp": "2026-04-10T08:57:03.090930+00:00",
   "cognitive_score": 14.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -27,24 +27,24 @@
   "processing_count": 1,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 153624,
-  "total_tokens_formatted": "153.6k",
+  "total_tokens": 150653,
+  "total_tokens_formatted": "150.7k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "💬 API开发",
+      "label": "💬 K8s运维",
       "status": "🔄 处理中",
-      "tokens": 153624,
+      "tokens": 150653,
       "type": "session",
       "last_role": "assistant",
-      "category": "研究",
-      "category_icon": "🔬",
-      "category_description": "数据分析、竞品调研、技术方案设计"
+      "category": "作品",
+      "category_icon": "🎮",
+      "category_description": "游戏开发、交互页面、创意工具、前端开发"
     }
   ],
   "cpu_percent": 0.0,
-  "memory_percent": 77.7,
+  "memory_percent": 78.6,
   "workflow_details": [],
   "build_details": []
 }
