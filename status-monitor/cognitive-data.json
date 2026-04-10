@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-10T08:11:03.081963+00:00",
-  "cognitive_score": 14.0,
+  "timestamp": "2026-04-10T08:13:03.028393+00:00",
+  "cognitive_score": 11.0,
   "score_breakdown": {
     "wait_score": 0,
     "token_score": 0,
@@ -8,13 +8,13 @@
     "active_score": 0,
     "system_score": 0,
     "processing_bonus": 0,
-    "base_score": 14.0,
-    "final_score": 14.0,
+    "base_score": 11.0,
+    "final_score": 11.0,
     "active_sessions": 1,
     "recent_active": 1,
     "tool_calls": 0,
-    "pending": 0,
-    "processing": 1,
+    "pending": 1,
+    "processing": 0,
     "estimated_response": 0
   },
   "status_code": "low",
@@ -23,28 +23,28 @@
   "active_sessions": 1,
   "recent_active_count": 1,
   "total_tool_calls": 0,
-  "pending_count": 0,
-  "processing_count": 1,
+  "pending_count": 1,
+  "processing_count": 0,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 115557,
-  "total_tokens_formatted": "115.6k",
+  "total_tokens": 120527,
+  "total_tokens_formatted": "120.5k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
       "label": "💬 PR审查",
-      "status": "🔄 处理中",
-      "tokens": 115557,
+      "status": "💤 28秒前活跃",
+      "tokens": 120527,
       "type": "session",
-      "last_role": "assistant",
-      "category": "作品",
-      "category_icon": "🎮",
-      "category_description": "游戏开发、交互页面、创意工具、前端开发"
+      "last_role": "user",
+      "category": "研究",
+      "category_icon": "🔬",
+      "category_description": "数据分析、竞品调研、技术方案设计"
     }
   ],
   "cpu_percent": 0.5,
-  "memory_percent": 78.9,
+  "memory_percent": 78.1,
   "workflow_details": [],
   "build_details": []
 }
