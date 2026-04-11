@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-11T19:25:02.883702+00:00",
+  "timestamp": "2026-04-11T19:27:02.961848+00:00",
   "cognitive_score": 28.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -34,7 +34,7 @@
   "task_queue": [
     {
       "label": "💬 PR审查",
-      "status": "💤 26分钟前活跃",
+      "status": "💤 28分钟前活跃",
       "tokens": 13548,
       "type": "session",
       "last_role": "user",
@@ -43,7 +43,7 @@
       "category_description": "后端服务、API开发、自动化脚本、技术基建"
     }
   ],
-  "cpu_percent": 0.0,
+  "cpu_percent": 0.5,
   "memory_percent": 77.2,
   "workflow_details": [],
   "build_details": []
