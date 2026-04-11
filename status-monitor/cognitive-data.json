@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-11T19:35:02.607828+00:00",
+  "timestamp": "2026-04-11T19:37:02.705726+00:00",
   "cognitive_score": 23.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -34,7 +34,7 @@
   "task_queue": [
     {
       "label": "💬 GitHub操作",
-      "status": "💤 6分钟前活跃",
+      "status": "💤 8分钟前活跃",
       "tokens": 12486,
       "type": "session",
       "last_role": "user",
