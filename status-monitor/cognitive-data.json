@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-12T16:11:02.164757+00:00",
-  "cognitive_score": 65.0,
+  "timestamp": "2026-04-12T16:13:02.451116+00:00",
+  "cognitive_score": 72.0,
   "score_breakdown": {
     "wait_score": 0,
     "token_score": 0,
@@ -8,14 +8,14 @@
     "active_score": 0,
     "system_score": 0,
     "processing_bonus": 0,
-    "base_score": 65.0,
-    "final_score": 65.0,
+    "base_score": 72.0,
+    "final_score": 72.0,
     "active_sessions": 2,
     "recent_active": 2,
     "tool_calls": 0,
     "pending": 1,
     "processing": 1,
-    "estimated_response": 60
+    "estimated_response": 120
   },
   "status_code": "medium",
   "status_text": "🟡 中等负载",
@@ -27,24 +27,24 @@
   "processing_count": 1,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 815016,
-  "total_tokens_formatted": "815.0k",
+  "total_tokens": 1014182,
+  "total_tokens_formatted": "1014.2k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "👥 GitHub操作",
+      "label": "👥 数据库",
       "status": "🔄 处理中",
-      "tokens": 752413,
+      "tokens": 951579,
       "type": "session",
       "last_role": "assistant",
-      "category": "开发",
-      "category_icon": "⚙️",
-      "category_description": "后端服务、API开发、自动化脚本、技术基建"
+      "category": "作品",
+      "category_icon": "🎮",
+      "category_description": "游戏开发、交互页面、创意工具、前端开发"
     },
     {
       "label": "💬 GitHub操作",
-      "status": "💤 30分钟前活跃",
+      "status": "💤 32分钟前活跃",
       "tokens": 62603,
       "type": "session",
       "last_role": "user",
@@ -53,8 +53,8 @@
       "category_description": "飞书对话、状态监控、定时任务、系统维护"
     }
   ],
-  "cpu_percent": 0.5,
-  "memory_percent": 79.3,
+  "cpu_percent": 2.5,
+  "memory_percent": 80.5,
   "workflow_details": [],
   "build_details": []
 }
