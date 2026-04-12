@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-12T15:39:02.299019+00:00",
-  "cognitive_score": 56.0,
+  "timestamp": "2026-04-12T15:41:02.763585+00:00",
+  "cognitive_score": 36.0,
   "score_breakdown": {
     "wait_score": 0,
     "token_score": 0,
@@ -8,14 +8,14 @@
     "active_score": 0,
     "system_score": 0,
     "processing_bonus": 0,
-    "base_score": 56.0,
-    "final_score": 56.0,
+    "base_score": 36.0,
+    "final_score": 36.0,
     "active_sessions": 3,
     "recent_active": 3,
     "tool_calls": 0,
     "pending": 1,
     "processing": 0,
-    "estimated_response": 60
+    "estimated_response": 30
   },
   "status_code": "medium",
   "status_text": "🟡 轻负载",
@@ -27,30 +27,30 @@
   "processing_count": 0,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 876285,
-  "total_tokens_formatted": "876.3k",
+  "total_tokens": 870871,
+  "total_tokens_formatted": "870.9k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
+      "label": "💬 GitHub操作",
+      "status": "💤 30秒前活跃",
+      "tokens": 62603,
+      "type": "session",
+      "last_role": "user",
+      "category": "系统",
+      "category_icon": "🔧",
+      "category_description": "飞书对话、状态监控、定时任务、系统维护"
+    },
+    {
       "label": "👥 前端开发",
-      "status": "💡 活跃中",
+      "status": "✅ 已回复",
       "tokens": 748833,
       "type": "session",
       "last_role": "assistant",
       "category": "作品",
       "category_icon": "🎮",
       "category_description": "游戏开发、交互页面、创意工具、前端开发"
-    },
-    {
-      "label": "💬 CI/CD",
-      "status": "💤 28分钟前活跃",
-      "tokens": 68017,
-      "type": "session",
-      "last_role": "user",
-      "category": "系统",
-      "category_icon": "🔧",
-      "category_description": "飞书对话、状态监控、定时任务、系统维护"
     },
     {
       "label": "👥 前端开发",
@@ -64,7 +64,7 @@
     }
   ],
   "cpu_percent": 0.0,
-  "memory_percent": 81.2,
+  "memory_percent": 80.0,
   "workflow_details": [],
   "build_details": []
 }
