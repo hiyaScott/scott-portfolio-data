@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-12T07:17:03.012258+00:00",
+  "timestamp": "2026-04-12T07:19:02.935042+00:00",
   "cognitive_score": 72.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -27,15 +27,15 @@
   "processing_count": 1,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 2023645,
-  "total_tokens_formatted": "2023.6k",
+  "total_tokens": 2029116,
+  "total_tokens_formatted": "2029.1k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "👥 API开发",
+      "label": "👥 游戏设计",
       "status": "🔄 处理中",
-      "tokens": 1944252,
+      "tokens": 1949723,
       "type": "session",
       "last_role": "assistant",
       "category": "作品",
@@ -44,7 +44,7 @@
     },
     {
       "label": "💬 心跳监控",
-      "status": "💤 18分钟前活跃",
+      "status": "💤 20分钟前活跃",
       "tokens": 79393,
       "type": "session",
       "last_role": "user",
@@ -53,8 +53,8 @@
       "category_description": "数据分析、竞品调研、技术方案设计"
     }
   ],
-  "cpu_percent": 1.5,
-  "memory_percent": 80.0,
+  "cpu_percent": 2.0,
+  "memory_percent": 80.2,
   "workflow_details": [],
   "build_details": []
 }
