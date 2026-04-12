@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-12T14:35:02.326164+00:00",
+  "timestamp": "2026-04-12T14:37:02.559933+00:00",
   "cognitive_score": 72.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -27,15 +27,15 @@
   "processing_count": 1,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 852742,
-  "total_tokens_formatted": "852.7k",
+  "total_tokens": 849750,
+  "total_tokens_formatted": "849.8k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "👥 构建打包",
+      "label": "👥 GitHub操作",
       "status": "🔄 处理中",
-      "tokens": 720575,
+      "tokens": 717583,
       "type": "session",
       "last_role": "assistant",
       "category": "研究",
@@ -44,7 +44,7 @@
     },
     {
       "label": "💬 飞书集成",
-      "status": "💤 50分钟前活跃",
+      "status": "💤 52分钟前活跃",
       "tokens": 72585,
       "type": "session",
       "last_role": "user",
@@ -54,7 +54,7 @@
     },
     {
       "label": "👥 PR审查",
-      "status": "💤 57秒前活跃",
+      "status": "💤 2分钟前活跃",
       "tokens": 59582,
       "type": "session",
       "last_role": "user",
@@ -64,7 +64,7 @@
     }
   ],
   "cpu_percent": 0.0,
-  "memory_percent": 81.6,
+  "memory_percent": 81.5,
   "workflow_details": [],
   "build_details": []
 }
