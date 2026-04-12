@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-12T10:57:03.150260+00:00",
-  "cognitive_score": 60.0,
+  "timestamp": "2026-04-12T10:59:02.636986+00:00",
+  "cognitive_score": 50.0,
   "score_breakdown": {
     "wait_score": 0,
     "token_score": 0,
@@ -8,34 +8,34 @@
     "active_score": 0,
     "system_score": 0,
     "processing_bonus": 0,
-    "base_score": 60.0,
-    "final_score": 60.0,
+    "base_score": 50.0,
+    "final_score": 50.0,
     "active_sessions": 2,
     "recent_active": 2,
     "tool_calls": 0,
     "pending": 1,
-    "processing": 1,
-    "estimated_response": 60
+    "processing": 0,
+    "estimated_response": 30
   },
   "status_code": "medium",
-  "status_text": "🟡 中等负载",
-  "suggestion": "可派简单任务",
+  "status_text": "🟡 轻负载",
+  "suggestion": "30秒内响应",
   "active_sessions": 2,
   "recent_active_count": 2,
   "total_tool_calls": 0,
   "pending_count": 1,
-  "processing_count": 1,
+  "processing_count": 0,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 648949,
-  "total_tokens_formatted": "648.9k",
+  "total_tokens": 648055,
+  "total_tokens_formatted": "648.1k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
       "label": "👥 GitHub操作",
-      "status": "🔄 处理中",
-      "tokens": 569556,
+      "status": "💡 活跃中",
+      "tokens": 568662,
       "type": "session",
       "last_role": "assistant",
       "category": "作品",
@@ -44,7 +44,7 @@
     },
     {
       "label": "💬 心跳监控",
-      "status": "💤 12分钟前活跃",
+      "status": "💤 14分钟前活跃",
       "tokens": 79393,
       "type": "session",
       "last_role": "user",
@@ -54,7 +54,7 @@
     }
   ],
   "cpu_percent": 0.0,
-  "memory_percent": 80.7,
+  "memory_percent": 80.9,
   "workflow_details": [],
   "build_details": []
 }
