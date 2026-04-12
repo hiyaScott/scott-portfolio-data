@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-12T06:21:02.570211+00:00",
+  "timestamp": "2026-04-12T06:23:02.994095+00:00",
   "cognitive_score": 9.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -44,7 +44,7 @@
     },
     {
       "label": "💬 心跳监控",
-      "status": "💡 活跃中",
+      "status": "✅ 已回复",
       "tokens": 44331,
       "type": "session",
       "last_role": "assistant",
@@ -53,8 +53,8 @@
       "category_description": "数据分析、竞品调研、技术方案设计"
     }
   ],
-  "cpu_percent": 0.5,
-  "memory_percent": 77.4,
+  "cpu_percent": 0.0,
+  "memory_percent": 77.3,
   "workflow_details": [],
   "build_details": []
 }
