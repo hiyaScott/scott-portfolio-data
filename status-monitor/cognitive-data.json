@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-12T15:03:02.469381+00:00",
+  "timestamp": "2026-04-12T15:05:02.580802+00:00",
   "cognitive_score": 52.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -33,24 +33,24 @@
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "👥 前端开发",
-      "status": "💡 活跃中",
-      "tokens": 632060,
-      "type": "session",
-      "last_role": "assistant",
-      "category": "作品",
-      "category_icon": "🎮",
-      "category_description": "游戏开发、交互页面、创意工具、前端开发"
-    },
-    {
       "label": "💬 CI/CD",
-      "status": "💤 22分钟前活跃",
+      "status": "💤 24分钟前活跃",
       "tokens": 71381,
       "type": "session",
       "last_role": "user",
       "category": "系统",
       "category_icon": "🔧",
       "category_description": "飞书对话、状态监控、定时任务、系统维护"
+    },
+    {
+      "label": "👥 前端开发",
+      "status": "✅ 已回复",
+      "tokens": 632060,
+      "type": "session",
+      "last_role": "assistant",
+      "category": "作品",
+      "category_icon": "🎮",
+      "category_description": "游戏开发、交互页面、创意工具、前端开发"
     },
     {
       "label": "👥 前端开发",
@@ -64,7 +64,7 @@
     }
   ],
   "cpu_percent": 0.0,
-  "memory_percent": 79.7,
+  "memory_percent": 79.2,
   "workflow_details": [],
   "build_details": []
 }
