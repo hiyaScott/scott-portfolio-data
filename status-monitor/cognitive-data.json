@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-12T13:21:03.031260+00:00",
+  "timestamp": "2026-04-12T13:23:02.819574+00:00",
   "cognitive_score": 26.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -34,7 +34,7 @@
   "task_queue": [
     {
       "label": "💬 GitHub操作",
-      "status": "💤 6分钟前活跃",
+      "status": "💤 8分钟前活跃",
       "tokens": 73675,
       "type": "session",
       "last_role": "user",
@@ -54,7 +54,7 @@
     }
   ],
   "cpu_percent": 0.5,
-  "memory_percent": 78.4,
+  "memory_percent": 78.7,
   "workflow_details": [],
   "build_details": []
 }
