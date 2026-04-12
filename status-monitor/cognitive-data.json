@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-12T11:09:03.072599+00:00",
+  "timestamp": "2026-04-12T11:11:03.035671+00:00",
   "cognitive_score": 69.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -27,15 +27,15 @@
   "processing_count": 1,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 971403,
-  "total_tokens_formatted": "971.4k",
+  "total_tokens": 861405,
+  "total_tokens_formatted": "861.4k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "👥 飞书集成",
+      "label": "👥 GitHub操作",
       "status": "🔄 处理中",
-      "tokens": 892010,
+      "tokens": 782012,
       "type": "session",
       "last_role": "assistant",
       "category": "研究",
@@ -44,7 +44,7 @@
     },
     {
       "label": "💬 心跳监控",
-      "status": "💤 24分钟前活跃",
+      "status": "💤 26分钟前活跃",
       "tokens": 79393,
       "type": "session",
       "last_role": "user",
@@ -53,8 +53,8 @@
       "category_description": "游戏开发、交互页面、创意工具、前端开发"
     }
   ],
-  "cpu_percent": 1.5,
-  "memory_percent": 78.8,
+  "cpu_percent": 72.5,
+  "memory_percent": 79.4,
   "workflow_details": [],
   "build_details": []
 }
