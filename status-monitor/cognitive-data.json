@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-12T11:21:02.525746+00:00",
+  "timestamp": "2026-04-12T11:23:02.676717+00:00",
   "cognitive_score": 56.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -44,7 +44,7 @@
     },
     {
       "label": "💬 飞书集成",
-      "status": "💤 6分钟前活跃",
+      "status": "💤 8分钟前活跃",
       "tokens": 79393,
       "type": "session",
       "last_role": "user",
@@ -54,7 +54,7 @@
     }
   ],
   "cpu_percent": 0.0,
-  "memory_percent": 79.2,
+  "memory_percent": 79.7,
   "workflow_details": [],
   "build_details": []
 }
