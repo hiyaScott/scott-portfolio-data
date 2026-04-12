@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-12T15:57:03.090238+00:00",
+  "timestamp": "2026-04-12T15:59:02.616896+00:00",
   "cognitive_score": 55.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -33,28 +33,28 @@
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "👥 GitHub操作",
-      "status": "💡 活跃中",
-      "tokens": 750510,
-      "type": "session",
-      "last_role": "assistant",
-      "category": "开发",
-      "category_icon": "⚙️",
-      "category_description": "后端服务、API开发、自动化脚本、技术基建"
-    },
-    {
       "label": "💬 GitHub操作",
-      "status": "💤 16分钟前活跃",
+      "status": "💤 18分钟前活跃",
       "tokens": 62603,
       "type": "session",
       "last_role": "user",
       "category": "系统",
       "category_icon": "🔧",
       "category_description": "飞书对话、状态监控、定时任务、系统维护"
+    },
+    {
+      "label": "👥 GitHub操作",
+      "status": "✅ 已回复",
+      "tokens": 750510,
+      "type": "session",
+      "last_role": "assistant",
+      "category": "开发",
+      "category_icon": "⚙️",
+      "category_description": "后端服务、API开发、自动化脚本、技术基建"
     }
   ],
   "cpu_percent": 0.0,
-  "memory_percent": 78.9,
+  "memory_percent": 79.4,
   "workflow_details": [],
   "build_details": []
 }
