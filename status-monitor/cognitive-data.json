@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-13T04:33:02.965401+00:00",
+  "timestamp": "2026-04-13T04:35:02.227641+00:00",
   "cognitive_score": 29.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -33,28 +33,28 @@
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "👥 飞书集成",
-      "status": "💡 活跃中",
-      "tokens": 26861,
-      "type": "session",
-      "last_role": "assistant",
-      "category": "作品",
-      "category_icon": "🎮",
-      "category_description": "游戏开发、交互页面、创意工具、前端开发"
-    },
-    {
       "label": "💬 心跳监控",
-      "status": "💤 23分钟前活跃",
+      "status": "💤 25分钟前活跃",
       "tokens": 1853,
       "type": "session",
       "last_role": "user",
       "category": "系统",
       "category_icon": "🔧",
       "category_description": "飞书对话、状态监控、定时任务、系统维护"
+    },
+    {
+      "label": "👥 飞书集成",
+      "status": "✅ 已回复",
+      "tokens": 26861,
+      "type": "session",
+      "last_role": "assistant",
+      "category": "作品",
+      "category_icon": "🎮",
+      "category_description": "游戏开发、交互页面、创意工具、前端开发"
     }
   ],
   "cpu_percent": 0.0,
-  "memory_percent": 81.6,
+  "memory_percent": 80.0,
   "workflow_details": [],
   "build_details": []
 }
