@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-13T13:01:02.708477+00:00",
+  "timestamp": "2026-04-13T13:03:02.338453+00:00",
   "cognitive_score": 48.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -44,7 +44,7 @@
     },
     {
       "label": "👥 飞书集成",
-      "status": "💤 61分钟前活跃",
+      "status": "💤 63分钟前活跃",
       "tokens": 51465,
       "type": "session",
       "last_role": "user",
@@ -54,7 +54,7 @@
     },
     {
       "label": "💬 心跳监控",
-      "status": "💤 4分钟前活跃",
+      "status": "💤 6分钟前活跃",
       "tokens": 7170,
       "type": "session",
       "last_role": "user",
@@ -63,8 +63,8 @@
       "category_description": "数据分析、竞品调研、技术方案设计"
     }
   ],
-  "cpu_percent": 0.5,
-  "memory_percent": 82.0,
+  "cpu_percent": 1.0,
+  "memory_percent": 80.7,
   "workflow_details": [],
   "build_details": []
 }
