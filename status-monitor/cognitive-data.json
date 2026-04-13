@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-13T06:43:02.683138+00:00",
+  "timestamp": "2026-04-13T06:45:03.087388+00:00",
   "cognitive_score": 49.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -27,8 +27,8 @@
   "processing_count": 2,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 860329,
-  "total_tokens_formatted": "860.3k",
+  "total_tokens": 884199,
+  "total_tokens_formatted": "884.2k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
@@ -43,9 +43,9 @@
       "category_description": "数据分析、竞品调研、技术方案设计"
     },
     {
-      "label": "👥 数据库",
+      "label": "👥 AI开发",
       "status": "🔄 处理中",
-      "tokens": 55015,
+      "tokens": 78885,
       "type": "session",
       "last_role": "assistant",
       "category": "作品",
@@ -53,8 +53,8 @@
       "category_description": "游戏开发、交互页面、创意工具、前端开发"
     }
   ],
-  "cpu_percent": 0.5,
-  "memory_percent": 82.3,
+  "cpu_percent": 2.5,
+  "memory_percent": 81.5,
   "workflow_details": [],
   "build_details": []
 }
