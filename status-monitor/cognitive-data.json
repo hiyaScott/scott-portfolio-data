@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-13T16:19:02.597987+00:00",
-  "cognitive_score": 19.0,
+  "timestamp": "2026-04-13T16:21:02.633469+00:00",
+  "cognitive_score": 24.0,
   "score_breakdown": {
     "wait_score": 0,
     "token_score": 0,
@@ -8,8 +8,8 @@
     "active_score": 0,
     "system_score": 0,
     "processing_bonus": 0,
-    "base_score": 19.0,
-    "final_score": 19.0,
+    "base_score": 24.0,
+    "final_score": 24.0,
     "active_sessions": 3,
     "recent_active": 3,
     "tool_calls": 0,
@@ -27,15 +27,15 @@
   "processing_count": 0,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 94634,
-  "total_tokens_formatted": "94.6k",
+  "total_tokens": 95360,
+  "total_tokens_formatted": "95.4k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "👥 GitHub操作",
+      "label": "👥 飞书集成",
       "status": "💡 活跃中",
-      "tokens": 53426,
+      "tokens": 54152,
       "type": "session",
       "last_role": "assistant",
       "category": "作品",
@@ -44,7 +44,7 @@
     },
     {
       "label": "💬 心跳监控",
-      "status": "💤 4分钟前活跃",
+      "status": "💤 6分钟前活跃",
       "tokens": 33626,
       "type": "session",
       "last_role": "user",
@@ -63,8 +63,8 @@
       "category_description": "后端服务、API开发、自动化脚本、技术基建"
     }
   ],
-  "cpu_percent": 0.5,
-  "memory_percent": 82.4,
+  "cpu_percent": 0.0,
+  "memory_percent": 84.5,
   "workflow_details": [],
   "build_details": []
 }
