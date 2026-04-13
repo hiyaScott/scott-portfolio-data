@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-13T18:03:02.845345+00:00",
+  "timestamp": "2026-04-13T18:05:02.272802+00:00",
   "cognitive_score": 32.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -33,28 +33,28 @@
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "👥 前端开发",
-      "status": "💡 活跃中",
-      "tokens": 137246,
-      "type": "session",
-      "last_role": "assistant",
-      "category": "作品",
-      "category_icon": "🎮",
-      "category_description": "游戏开发、交互页面、创意工具、前端开发"
-    },
-    {
       "label": "💬 心跳监控",
-      "status": "💤 18分钟前活跃",
+      "status": "💤 20分钟前活跃",
       "tokens": 33626,
       "type": "session",
       "last_role": "user",
       "category": "研究",
       "category_icon": "🔬",
       "category_description": "数据分析、竞品调研、技术方案设计"
+    },
+    {
+      "label": "👥 前端开发",
+      "status": "✅ 已回复",
+      "tokens": 137246,
+      "type": "session",
+      "last_role": "assistant",
+      "category": "作品",
+      "category_icon": "🎮",
+      "category_description": "游戏开发、交互页面、创意工具、前端开发"
     }
   ],
-  "cpu_percent": 0.0,
-  "memory_percent": 82.9,
+  "cpu_percent": 2.0,
+  "memory_percent": 83.1,
   "workflow_details": [],
   "build_details": []
 }
