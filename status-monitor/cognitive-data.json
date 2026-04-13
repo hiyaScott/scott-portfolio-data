@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-13T06:17:02.847909+00:00",
-  "cognitive_score": 72.0,
+  "timestamp": "2026-04-13T06:19:02.538491+00:00",
+  "cognitive_score": 69.0,
   "score_breakdown": {
     "wait_score": 0,
     "token_score": 0,
@@ -8,13 +8,13 @@
     "active_score": 0,
     "system_score": 0,
     "processing_bonus": 0,
-    "base_score": 72.0,
-    "final_score": 72.0,
+    "base_score": 69.0,
+    "final_score": 69.0,
     "active_sessions": 3,
     "recent_active": 3,
     "tool_calls": 0,
-    "pending": 2,
-    "processing": 1,
+    "pending": 3,
+    "processing": 0,
     "estimated_response": 120
   },
   "status_code": "medium",
@@ -23,28 +23,18 @@
   "active_sessions": 3,
   "recent_active_count": 3,
   "total_tool_calls": 0,
-  "pending_count": 2,
-  "processing_count": 1,
+  "pending_count": 3,
+  "processing_count": 0,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 859107,
-  "total_tokens_formatted": "859.1k",
+  "total_tokens": 860438,
+  "total_tokens_formatted": "860.4k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "👥 GitHub操作",
-      "status": "🔄 处理中",
-      "tokens": 54642,
-      "type": "session",
-      "last_role": "assistant",
-      "category": "作品",
-      "category_icon": "🎮",
-      "category_description": "游戏开发、交互页面、创意工具、前端开发"
-    },
-    {
       "label": "👥 飞书集成",
-      "status": "💤 8分钟前活跃",
+      "status": "💤 10分钟前活跃",
       "tokens": 802285,
       "type": "session",
       "last_role": "user",
@@ -53,8 +43,18 @@
       "category_description": "游戏开发、交互页面、创意工具、前端开发"
     },
     {
+      "label": "👥 GitHub操作",
+      "status": "💤 3分钟前活跃",
+      "tokens": 55973,
+      "type": "session",
+      "last_role": "user",
+      "category": "开发",
+      "category_icon": "⚙️",
+      "category_description": "后端服务、API开发、自动化脚本、技术基建"
+    },
+    {
       "label": "💬 心跳监控",
-      "status": "💤 37分钟前活跃",
+      "status": "💤 39分钟前活跃",
       "tokens": 2180,
       "type": "session",
       "last_role": "user",
@@ -64,7 +64,7 @@
     }
   ],
   "cpu_percent": 0.0,
-  "memory_percent": 81.3,
+  "memory_percent": 80.6,
   "workflow_details": [],
   "build_details": []
 }
