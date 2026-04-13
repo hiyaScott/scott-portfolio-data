@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-13T14:57:03.033878+00:00",
+  "timestamp": "2026-04-13T14:59:02.312644+00:00",
   "cognitive_score": 7.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -43,16 +43,6 @@
       "category_description": "后端服务、API开发、自动化脚本、技术基建"
     },
     {
-      "label": "💬 心跳监控",
-      "status": "💡 活跃中",
-      "tokens": 32233,
-      "type": "session",
-      "last_role": "assistant",
-      "category": "开发",
-      "category_icon": "⚙️",
-      "category_description": "后端服务、API开发、自动化脚本、技术基建"
-    },
-    {
       "label": "👥 PR审查",
       "status": "✅ 已回复",
       "tokens": 98188,
@@ -61,10 +51,20 @@
       "category": "研究",
       "category_icon": "🔬",
       "category_description": "数据分析、竞品调研、技术方案设计"
+    },
+    {
+      "label": "💬 心跳监控",
+      "status": "✅ 已回复",
+      "tokens": 32233,
+      "type": "session",
+      "last_role": "assistant",
+      "category": "开发",
+      "category_icon": "⚙️",
+      "category_description": "后端服务、API开发、自动化脚本、技术基建"
     }
   ],
-  "cpu_percent": 0.5,
-  "memory_percent": 83.7,
+  "cpu_percent": 0.0,
+  "memory_percent": 82.9,
   "workflow_details": [],
   "build_details": []
 }
