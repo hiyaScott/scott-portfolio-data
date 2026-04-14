@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-14T14:13:02.325713+00:00",
+  "timestamp": "2026-04-14T14:15:02.640614+00:00",
   "cognitive_score": 26.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -34,7 +34,7 @@
   "task_queue": [
     {
       "label": "💬 Bug修复",
-      "status": "💤 13分钟前活跃",
+      "status": "💤 15分钟前活跃",
       "tokens": 37172,
       "type": "session",
       "last_role": "user",
