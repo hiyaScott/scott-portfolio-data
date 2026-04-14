@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-14T14:05:02.866578+00:00",
+  "timestamp": "2026-04-14T14:07:02.471915+00:00",
   "cognitive_score": 21.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -34,7 +34,7 @@
   "task_queue": [
     {
       "label": "💬 Bug修复",
-      "status": "💤 5分钟前活跃",
+      "status": "💤 7分钟前活跃",
       "tokens": 37172,
       "type": "session",
       "last_role": "user",
@@ -53,8 +53,8 @@
       "category_description": "数据分析、竞品调研、技术方案设计"
     }
   ],
-  "cpu_percent": 0.5,
-  "memory_percent": 37.2,
+  "cpu_percent": 0.0,
+  "memory_percent": 37.4,
   "workflow_details": [],
   "build_details": []
 }
