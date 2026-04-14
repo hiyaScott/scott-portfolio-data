@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-14T15:41:02.807738+00:00",
+  "timestamp": "2026-04-14T15:43:02.662502+00:00",
   "cognitive_score": 26.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -34,7 +34,7 @@
   "task_queue": [
     {
       "label": "💬 UI设计",
-      "status": "💤 11分钟前活跃",
+      "status": "💤 13分钟前活跃",
       "tokens": 35050,
       "type": "session",
       "last_role": "user",
@@ -43,8 +43,8 @@
       "category_description": "数据分析、竞品调研、技术方案设计"
     }
   ],
-  "cpu_percent": 0.0,
-  "memory_percent": 37.0,
+  "cpu_percent": 0.5,
+  "memory_percent": 36.9,
   "workflow_details": [],
   "build_details": []
 }
