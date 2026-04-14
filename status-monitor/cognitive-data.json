@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-14T13:01:03.013907+00:00",
+  "timestamp": "2026-04-14T13:03:02.932493+00:00",
   "cognitive_score": 36.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -44,7 +44,7 @@
     },
     {
       "label": "💬 前端开发",
-      "status": "💤 16分钟前活跃",
+      "status": "💤 18分钟前活跃",
       "tokens": 35632,
       "type": "session",
       "last_role": "user",
@@ -54,7 +54,7 @@
     }
   ],
   "cpu_percent": 0.0,
-  "memory_percent": 37.0,
+  "memory_percent": 37.5,
   "workflow_details": [],
   "build_details": []
 }
