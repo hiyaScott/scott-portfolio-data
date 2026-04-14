@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-14T14:19:03.110868+00:00",
+  "timestamp": "2026-04-14T14:21:02.703166+00:00",
   "cognitive_score": 26.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -34,7 +34,7 @@
   "task_queue": [
     {
       "label": "💬 Bug修复",
-      "status": "💤 19分钟前活跃",
+      "status": "💤 21分钟前活跃",
       "tokens": 37172,
       "type": "session",
       "last_role": "user",
@@ -54,7 +54,7 @@
     }
   ],
   "cpu_percent": 0.0,
-  "memory_percent": 37.3,
+  "memory_percent": 37.0,
   "workflow_details": [],
   "build_details": []
 }
