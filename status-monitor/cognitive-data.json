@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-21T16:21:02.450886+00:00",
-  "cognitive_score": 3.0,
+  "timestamp": "2026-04-21T16:23:02.355412+00:00",
+  "cognitive_score": 4.0,
   "score_breakdown": {
     "wait_score": 0,
     "token_score": 0,
@@ -8,10 +8,10 @@
     "active_score": 0,
     "system_score": 0,
     "processing_bonus": 0,
-    "base_score": 3.0,
-    "final_score": 3.0,
-    "active_sessions": 3,
-    "recent_active": 3,
+    "base_score": 4.0,
+    "final_score": 4.0,
+    "active_sessions": 2,
+    "recent_active": 2,
     "tool_calls": 0,
     "pending": 0,
     "processing": 0,
@@ -20,15 +20,15 @@
   "status_code": "idle",
   "status_text": "⚪ 待机",
   "suggestion": "等待新任务",
-  "active_sessions": 3,
-  "recent_active_count": 3,
+  "active_sessions": 2,
+  "recent_active_count": 2,
   "total_tool_calls": 0,
   "pending_count": 0,
   "processing_count": 0,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 124329,
-  "total_tokens_formatted": "124.3k",
+  "total_tokens": 115646,
+  "total_tokens_formatted": "115.6k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
@@ -51,20 +51,10 @@
       "category": "研究",
       "category_icon": "🔬",
       "category_description": "数据分析、竞品调研、技术方案设计"
-    },
-    {
-      "label": "💬 版本发布",
-      "status": "✅ 已回复",
-      "tokens": 8683,
-      "type": "session",
-      "last_role": "assistant",
-      "category": "开发",
-      "category_icon": "⚙️",
-      "category_description": "后端服务、API开发、自动化脚本、技术基建"
     }
   ],
   "cpu_percent": 0.0,
-  "memory_percent": 19.9,
+  "memory_percent": 20.0,
   "workflow_details": [],
   "build_details": []
 }
