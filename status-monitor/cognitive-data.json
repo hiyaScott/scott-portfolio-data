@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-21T18:57:02.423612+00:00",
+  "timestamp": "2026-04-21T18:59:03.145530+00:00",
   "cognitive_score": 12.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -27,15 +27,15 @@
   "processing_count": 1,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 120112,
-  "total_tokens_formatted": "120.1k",
+  "total_tokens": 121972,
+  "total_tokens_formatted": "122.0k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "👥 代码提交",
+      "label": "👥 飞书集成",
       "status": "🔄 处理中",
-      "tokens": 70384,
+      "tokens": 72244,
       "type": "session",
       "last_role": "assistant",
       "category": "作品",
