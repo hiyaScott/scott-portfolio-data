@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-23T23:51:03.059010+00:00",
+  "timestamp": "2026-04-23T23:53:02.280996+00:00",
   "cognitive_score": 9.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -27,15 +27,15 @@
   "processing_count": 1,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 83067,
-  "total_tokens_formatted": "83.1k",
+  "total_tokens": 85857,
+  "total_tokens_formatted": "85.9k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "👥 飞书集成",
+      "label": "👥 前端开发",
       "status": "🔄 处理中",
-      "tokens": 69052,
+      "tokens": 71842,
       "type": "session",
       "last_role": "assistant",
       "category": "研究",
@@ -44,7 +44,7 @@
     },
     {
       "label": "💬 心跳监控",
-      "status": "💡 活跃中",
+      "status": "✅ 已回复",
       "tokens": 14015,
       "type": "session",
       "last_role": "assistant",
@@ -53,8 +53,8 @@
       "category_description": "数据分析、竞品调研、技术方案设计"
     }
   ],
-  "cpu_percent": 5.0,
-  "memory_percent": 29.0,
+  "cpu_percent": 0.5,
+  "memory_percent": 29.6,
   "workflow_details": [],
   "build_details": []
 }
