@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-24T07:11:03.010458+00:00",
+  "timestamp": "2026-04-24T07:13:02.221970+00:00",
   "cognitive_score": 26.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -33,28 +33,28 @@
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "💬 心跳监控",
-      "status": "💡 活跃中",
-      "tokens": 16627,
-      "type": "session",
-      "last_role": "assistant",
-      "category": "研究",
-      "category_icon": "🔬",
-      "category_description": "数据分析、竞品调研、技术方案设计"
-    },
-    {
       "label": "👥 前端开发",
-      "status": "💤 18分钟前活跃",
+      "status": "💤 20分钟前活跃",
       "tokens": 57343,
       "type": "session",
       "last_role": "user",
       "category": "研究",
       "category_icon": "🔬",
       "category_description": "数据分析、竞品调研、技术方案设计"
+    },
+    {
+      "label": "💬 心跳监控",
+      "status": "✅ 已回复",
+      "tokens": 16627,
+      "type": "session",
+      "last_role": "assistant",
+      "category": "研究",
+      "category_icon": "🔬",
+      "category_description": "数据分析、竞品调研、技术方案设计"
     }
   ],
   "cpu_percent": 0.5,
-  "memory_percent": 30.7,
+  "memory_percent": 30.8,
   "workflow_details": [],
   "build_details": []
 }
