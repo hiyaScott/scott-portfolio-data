@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-24T01:57:02.361615+00:00",
+  "timestamp": "2026-04-24T01:59:02.976412+00:00",
   "cognitive_score": 4.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -64,7 +64,7 @@
     }
   ],
   "cpu_percent": 0.0,
-  "memory_percent": 30.3,
+  "memory_percent": 30.0,
   "workflow_details": [],
   "build_details": []
 }
