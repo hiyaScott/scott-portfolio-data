@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-24T00:11:02.545949+00:00",
+  "timestamp": "2026-04-24T00:13:03.146048+00:00",
   "cognitive_score": 21.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -27,15 +27,15 @@
   "processing_count": 0,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 65214,
-  "total_tokens_formatted": "65.2k",
+  "total_tokens": 66682,
+  "total_tokens_formatted": "66.7k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "👥 Bug修复",
-      "status": "💤 6分钟前活跃",
-      "tokens": 51199,
+      "label": "👥 API开发",
+      "status": "💤 8分钟前活跃",
+      "tokens": 52667,
       "type": "session",
       "last_role": "user",
       "category": "研究",
@@ -54,7 +54,7 @@
     }
   ],
   "cpu_percent": 0.0,
-  "memory_percent": 29.8,
+  "memory_percent": 29.5,
   "workflow_details": [],
   "build_details": []
 }
