@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-25T15:15:02.635553+00:00",
+  "timestamp": "2026-04-25T15:17:02.524438+00:00",
   "cognitive_score": 9.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -27,15 +27,15 @@
   "processing_count": 1,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 60869,
-  "total_tokens_formatted": "60.9k",
+  "total_tokens": 59669,
+  "total_tokens_formatted": "59.7k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "💬 UI设计",
+      "label": "💬 Bug修复",
       "status": "🔄 处理中",
-      "tokens": 60869,
+      "tokens": 59669,
       "type": "session",
       "last_role": "assistant",
       "category": "作品",
@@ -44,7 +44,7 @@
     }
   ],
   "cpu_percent": 0.5,
-  "memory_percent": 33.5,
+  "memory_percent": 34.4,
   "workflow_details": [],
   "build_details": []
 }
