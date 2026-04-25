@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-25T13:27:02.867458+00:00",
+  "timestamp": "2026-04-25T13:29:03.010469+00:00",
   "cognitive_score": 15.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -27,15 +27,15 @@
   "processing_count": 1,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 207172,
-  "total_tokens_formatted": "207.2k",
+  "total_tokens": 208244,
+  "total_tokens_formatted": "208.2k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "💬 PR审查",
+      "label": "💬 战棋研究",
       "status": "🔄 处理中",
-      "tokens": 207172,
+      "tokens": 208244,
       "type": "session",
       "last_role": "assistant",
       "category": "作品",
@@ -44,7 +44,7 @@
     }
   ],
   "cpu_percent": 0.0,
-  "memory_percent": 32.7,
+  "memory_percent": 33.3,
   "workflow_details": [],
   "build_details": []
 }
