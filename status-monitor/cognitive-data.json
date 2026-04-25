@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-25T08:21:02.512541+00:00",
+  "timestamp": "2026-04-25T08:23:03.149724+00:00",
   "cognitive_score": 1.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -43,8 +43,8 @@
       "category_description": "后端服务、API开发、自动化脚本、技术基建"
     }
   ],
-  "cpu_percent": 0.5,
-  "memory_percent": 31.1,
+  "cpu_percent": 0.0,
+  "memory_percent": 31.0,
   "workflow_details": [],
   "build_details": []
 }
