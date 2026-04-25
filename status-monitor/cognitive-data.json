@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-25T09:13:03.104311+00:00",
+  "timestamp": "2026-04-25T09:15:02.554710+00:00",
   "cognitive_score": 15.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -27,15 +27,15 @@
   "processing_count": 1,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 245441,
-  "total_tokens_formatted": "245.4k",
+  "total_tokens": 244479,
+  "total_tokens_formatted": "244.5k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "👥 PR审查",
+      "label": "👥 数据库",
       "status": "🔄 处理中",
-      "tokens": 245162,
+      "tokens": 244200,
       "type": "session",
       "last_role": "assistant",
       "category": "开发",
@@ -53,8 +53,8 @@
       "category_description": "后端服务、API开发、自动化脚本、技术基建"
     }
   ],
-  "cpu_percent": 0.5,
-  "memory_percent": 31.0,
+  "cpu_percent": 1.0,
+  "memory_percent": 30.9,
   "workflow_details": [],
   "build_details": []
 }
