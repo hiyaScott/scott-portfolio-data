@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-25T03:37:02.507709+00:00",
-  "cognitive_score": 24.0,
+  "timestamp": "2026-04-25T03:39:02.866748+00:00",
+  "cognitive_score": 21.0,
   "score_breakdown": {
     "wait_score": 0,
     "token_score": 0,
@@ -8,8 +8,8 @@
     "active_score": 0,
     "system_score": 0,
     "processing_bonus": 0,
-    "base_score": 24.0,
-    "final_score": 24.0,
+    "base_score": 21.0,
+    "final_score": 21.0,
     "active_sessions": 2,
     "recent_active": 2,
     "tool_calls": 0,
@@ -27,15 +27,15 @@
   "processing_count": 1,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 468919,
-  "total_tokens_formatted": "468.9k",
+  "total_tokens": 300605,
+  "total_tokens_formatted": "300.6k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "👥 知识库",
+      "label": "👥 前端开发",
       "status": "🔄 处理中",
-      "tokens": 468640,
+      "tokens": 300326,
       "type": "session",
       "last_role": "assistant",
       "category": "作品",
@@ -53,8 +53,8 @@
       "category_description": "后端服务、API开发、自动化脚本、技术基建"
     }
   ],
-  "cpu_percent": 0.0,
-  "memory_percent": 31.3,
+  "cpu_percent": 0.5,
+  "memory_percent": 31.2,
   "workflow_details": [],
   "build_details": []
 }
