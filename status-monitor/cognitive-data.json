@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-25T15:37:02.737063+00:00",
+  "timestamp": "2026-04-25T15:39:02.342408+00:00",
   "cognitive_score": 21.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -27,15 +27,15 @@
   "processing_count": 0,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 99921,
-  "total_tokens_formatted": "99.9k",
+  "total_tokens": 99829,
+  "total_tokens_formatted": "99.8k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
       "label": "💬 前端开发",
-      "status": "💤 6分钟前活跃",
-      "tokens": 83609,
+      "status": "💤 8分钟前活跃",
+      "tokens": 83517,
       "type": "session",
       "last_role": "user",
       "category": "作品",
@@ -54,7 +54,7 @@
     }
   ],
   "cpu_percent": 0.5,
-  "memory_percent": 34.3,
+  "memory_percent": 34.1,
   "workflow_details": [],
   "build_details": []
 }
