@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-25T03:25:02.341678+00:00",
+  "timestamp": "2026-04-25T03:27:03.148052+00:00",
   "cognitive_score": 21.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -27,15 +27,15 @@
   "processing_count": 1,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 308076,
-  "total_tokens_formatted": "308.1k",
+  "total_tokens": 319864,
+  "total_tokens_formatted": "319.9k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
       "label": "👥 心跳监控",
       "status": "🔄 处理中",
-      "tokens": 307797,
+      "tokens": 319585,
       "type": "session",
       "last_role": "assistant",
       "category": "作品",
@@ -53,8 +53,8 @@
       "category_description": "后端服务、API开发、自动化脚本、技术基建"
     }
   ],
-  "cpu_percent": 0.0,
-  "memory_percent": 31.0,
+  "cpu_percent": 0.5,
+  "memory_percent": 30.5,
   "workflow_details": [],
   "build_details": []
 }
