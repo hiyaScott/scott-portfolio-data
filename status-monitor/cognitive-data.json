@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-25T09:23:02.910818+00:00",
+  "timestamp": "2026-04-25T09:25:02.386921+00:00",
   "cognitive_score": 4.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -27,20 +27,20 @@
   "processing_count": 0,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 129287,
-  "total_tokens_formatted": "129.3k",
+  "total_tokens": 129959,
+  "total_tokens_formatted": "130.0k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "👥 游戏设计",
+      "label": "👥 GitHub操作",
       "status": "💡 活跃中",
-      "tokens": 129008,
+      "tokens": 129680,
       "type": "session",
       "last_role": "assistant",
-      "category": "其他",
-      "category_icon": "📦",
-      "category_description": "临时任务、待分类事项、杂项"
+      "category": "研究",
+      "category_icon": "🔬",
+      "category_description": "数据分析、竞品调研、技术方案设计"
     },
     {
       "label": "💬 心跳监控",
@@ -53,8 +53,8 @@
       "category_description": "后端服务、API开发、自动化脚本、技术基建"
     }
   ],
-  "cpu_percent": 0.5,
-  "memory_percent": 31.0,
+  "cpu_percent": 0.0,
+  "memory_percent": 32.0,
   "workflow_details": [],
   "build_details": []
 }
