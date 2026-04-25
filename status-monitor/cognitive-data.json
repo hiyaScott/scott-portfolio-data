@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-25T13:23:03.210365+00:00",
+  "timestamp": "2026-04-25T13:25:02.741111+00:00",
   "cognitive_score": 15.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -27,15 +27,15 @@
   "processing_count": 1,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 203810,
-  "total_tokens_formatted": "203.8k",
+  "total_tokens": 206514,
+  "total_tokens_formatted": "206.5k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "💬 UI设计",
+      "label": "💬 数据库",
       "status": "🔄 处理中",
-      "tokens": 203810,
+      "tokens": 206514,
       "type": "session",
       "last_role": "assistant",
       "category": "研究",
@@ -43,7 +43,7 @@
       "category_description": "数据分析、竞品调研、技术方案设计"
     }
   ],
-  "cpu_percent": 3.0,
+  "cpu_percent": 0.0,
   "memory_percent": 32.7,
   "workflow_details": [],
   "build_details": []
