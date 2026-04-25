@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-25T07:21:02.327538+00:00",
-  "cognitive_score": 13.0,
+  "timestamp": "2026-04-25T07:23:02.539458+00:00",
+  "cognitive_score": 1.0,
   "score_breakdown": {
     "wait_score": 0,
     "token_score": 0,
@@ -8,10 +8,10 @@
     "active_score": 0,
     "system_score": 0,
     "processing_bonus": 0,
-    "base_score": 13.0,
-    "final_score": 13.0,
-    "active_sessions": 2,
-    "recent_active": 2,
+    "base_score": 1.0,
+    "final_score": 1.0,
+    "active_sessions": 1,
+    "recent_active": 1,
     "tool_calls": 0,
     "pending": 0,
     "processing": 0,
@@ -20,15 +20,15 @@
   "status_code": "idle",
   "status_text": "⚪ 待机",
   "suggestion": "等待新任务",
-  "active_sessions": 2,
-  "recent_active_count": 2,
+  "active_sessions": 1,
+  "recent_active_count": 1,
   "total_tool_calls": 0,
   "pending_count": 0,
   "processing_count": 0,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 301641,
-  "total_tokens_formatted": "301.6k",
+  "total_tokens": 279,
+  "total_tokens_formatted": "0.3k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
@@ -41,20 +41,10 @@
       "category": "开发",
       "category_icon": "⚙️",
       "category_description": "后端服务、API开发、自动化脚本、技术基建"
-    },
-    {
-      "label": "👥 API开发",
-      "status": "✅ 已回复",
-      "tokens": 301362,
-      "type": "session",
-      "last_role": "assistant",
-      "category": "研究",
-      "category_icon": "🔬",
-      "category_description": "数据分析、竞品调研、技术方案设计"
     }
   ],
-  "cpu_percent": 0.5,
-  "memory_percent": 30.6,
+  "cpu_percent": 1.0,
+  "memory_percent": 30.9,
   "workflow_details": [],
   "build_details": []
 }
