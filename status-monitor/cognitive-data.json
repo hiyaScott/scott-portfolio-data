@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-26T16:59:02.608413+00:00",
+  "timestamp": "2026-04-26T17:01:02.832166+00:00",
   "cognitive_score": 29.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -44,7 +44,7 @@
     },
     {
       "label": "💬 心跳监控",
-      "status": "💤 1253分钟前活跃",
+      "status": "💤 1255分钟前活跃",
       "tokens": 115,
       "type": "session",
       "last_role": "user",
@@ -53,8 +53,8 @@
       "category_description": "飞书对话、状态监控、定时任务、系统维护"
     }
   ],
-  "cpu_percent": 0.0,
-  "memory_percent": 35.5,
+  "cpu_percent": 1.0,
+  "memory_percent": 35.8,
   "workflow_details": [],
   "build_details": []
 }
