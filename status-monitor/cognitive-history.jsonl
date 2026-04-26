@@ -54923,3 +54923,5 @@
 {"timestamp": "2026-04-26T10:23:02.923150+00:00", "score": 39.0, "sessions": 2, "pending": 1, "processing": 1, "tokens": 126801, "cpu": 0.5, "memory": 35.5}
 {"timestamp": "2026-04-26T10:24:02.518714+00:00", "score": 39.0, "sessions": 2, "pending": 1, "processing": 1, "tokens": 127985, "cpu": 0.0, "memory": 35.5}
 {"timestamp": "2026-04-26T10:25:02.534669+00:00", "score": 29.0, "sessions": 2, "pending": 1, "processing": 0, "tokens": 127985, "cpu": 1.0, "memory": 36.3}
+{"timestamp": "2026-04-26T10:26:03.132230+00:00", "score": 39.0, "sessions": 2, "pending": 1, "processing": 1, "tokens": 126410, "cpu": 3.0, "memory": 35.6}
+{"timestamp": "2026-04-26T10:27:02.761283+00:00", "score": 39.0, "sessions": 2, "pending": 1, "processing": 1, "tokens": 126018, "cpu": 0.5, "memory": 35.7}
