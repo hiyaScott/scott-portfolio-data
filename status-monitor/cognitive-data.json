@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-27T00:13:02.723912+00:00",
+  "timestamp": "2026-04-27T00:15:03.055969+00:00",
   "cognitive_score": 36.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -27,15 +27,15 @@
   "processing_count": 1,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 20604,
-  "total_tokens_formatted": "20.6k",
+  "total_tokens": 29912,
+  "total_tokens_formatted": "29.9k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
       "label": "👥 飞书集成",
       "status": "🔄 处理中",
-      "tokens": 20489,
+      "tokens": 29797,
       "type": "session",
       "last_role": "assistant",
       "category": "研究",
@@ -44,7 +44,7 @@
     },
     {
       "label": "💬 心跳监控",
-      "status": "💤 245分钟前活跃",
+      "status": "💤 247分钟前活跃",
       "tokens": 115,
       "type": "session",
       "last_role": "user",
@@ -53,8 +53,8 @@
       "category_description": "飞书对话、状态监控、定时任务、系统维护"
     }
   ],
-  "cpu_percent": 0.0,
-  "memory_percent": 36.4,
+  "cpu_percent": 1.0,
+  "memory_percent": 37.0,
   "workflow_details": [],
   "build_details": []
 }
