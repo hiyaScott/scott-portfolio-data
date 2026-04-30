@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-30T15:57:02.548379+00:00",
+  "timestamp": "2026-04-30T15:59:02.701084+00:00",
   "cognitive_score": 28.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -34,7 +34,7 @@
   "task_queue": [
     {
       "label": "👥 前端开发",
-      "status": "💤 35分钟前活跃",
+      "status": "💤 37分钟前活跃",
       "tokens": 69045,
       "type": "session",
       "last_role": "user",
@@ -54,7 +54,7 @@
     },
     {
       "label": "🤖 前端开发",
-      "status": "💡 活跃中",
+      "status": "✅ 已回复",
       "tokens": 61366,
       "type": "session",
       "last_role": "assistant",
@@ -63,8 +63,8 @@
       "category_description": "数据分析、竞品调研、技术方案设计"
     }
   ],
-  "cpu_percent": 0.5,
-  "memory_percent": 19.1,
+  "cpu_percent": 0.0,
+  "memory_percent": 19.3,
   "workflow_details": [],
   "build_details": []
 }
