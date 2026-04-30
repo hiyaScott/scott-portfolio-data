@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-30T04:25:02.534253+00:00",
+  "timestamp": "2026-04-30T04:27:02.339412+00:00",
   "cognitive_score": 5.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -34,18 +34,8 @@
   "task_queue": [
     {
       "label": "👥 飞书集成",
-      "status": "💡 活跃中",
+      "status": "✅ 已回复",
       "tokens": 76824,
-      "type": "session",
-      "last_role": "assistant",
-      "category": "作品",
-      "category_icon": "🎮",
-      "category_description": "游戏开发、交互页面、创意工具、前端开发"
-    },
-    {
-      "label": "👥 飞书集成",
-      "status": "💡 活跃中",
-      "tokens": 76920,
       "type": "session",
       "last_role": "assistant",
       "category": "作品",
@@ -61,10 +51,20 @@
       "category": "研究",
       "category_icon": "🔬",
       "category_description": "数据分析、竞品调研、技术方案设计"
+    },
+    {
+      "label": "👥 飞书集成",
+      "status": "✅ 已回复",
+      "tokens": 76920,
+      "type": "session",
+      "last_role": "assistant",
+      "category": "作品",
+      "category_icon": "🎮",
+      "category_description": "游戏开发、交互页面、创意工具、前端开发"
     }
   ],
-  "cpu_percent": 0.5,
-  "memory_percent": 41.3,
+  "cpu_percent": 0.0,
+  "memory_percent": 41.5,
   "workflow_details": [],
   "build_details": []
 }
