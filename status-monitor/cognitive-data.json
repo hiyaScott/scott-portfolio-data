@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-30T05:55:02.526166+00:00",
+  "timestamp": "2026-04-30T05:57:02.405305+00:00",
   "cognitive_score": 10.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -27,15 +27,15 @@
   "processing_count": 1,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 67644,
-  "total_tokens_formatted": "67.6k",
+  "total_tokens": 68566,
+  "total_tokens_formatted": "68.6k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "👥 CI/CD",
+      "label": "👥 代码提交",
       "status": "🔄 处理中",
-      "tokens": 67058,
+      "tokens": 67980,
       "type": "session",
       "last_role": "assistant",
       "category": "开发",
@@ -54,7 +54,7 @@
     }
   ],
   "cpu_percent": 0.0,
-  "memory_percent": 41.3,
+  "memory_percent": 40.7,
   "workflow_details": [],
   "build_details": []
 }
