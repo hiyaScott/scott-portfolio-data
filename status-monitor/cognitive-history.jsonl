@@ -60641,3 +60641,5 @@
 {"timestamp": "2026-04-30T09:41:02.893895+00:00", "score": 2.0, "sessions": 1, "pending": 0, "processing": 0, "tokens": 586, "cpu": 1.0, "memory": 40.3}
 {"timestamp": "2026-04-30T09:42:02.874021+00:00", "score": 2.0, "sessions": 1, "pending": 0, "processing": 0, "tokens": 586, "cpu": 0.5, "memory": 40.5}
 {"timestamp": "2026-04-30T09:43:02.563623+00:00", "score": 2.0, "sessions": 1, "pending": 0, "processing": 0, "tokens": 586, "cpu": 0.0, "memory": 40.5}
+{"timestamp": "2026-04-30T09:44:03.145091+00:00", "score": 2.0, "sessions": 1, "pending": 0, "processing": 0, "tokens": 586, "cpu": 1.0, "memory": 40.3}
+{"timestamp": "2026-04-30T09:45:02.519402+00:00", "score": 2.0, "sessions": 1, "pending": 0, "processing": 0, "tokens": 586, "cpu": 0.0, "memory": 40.3}
