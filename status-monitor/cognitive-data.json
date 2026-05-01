@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-05-01T01:41:02.659215+00:00",
-  "cognitive_score": 9.0,
+  "timestamp": "2026-05-01T01:43:02.891382+00:00",
+  "cognitive_score": 0.0,
   "score_breakdown": {
     "wait_score": 0,
     "token_score": 0,
@@ -8,49 +8,49 @@
     "active_score": 0,
     "system_score": 0,
     "processing_bonus": 0,
-    "base_score": 9.0,
-    "final_score": 9.0,
+    "base_score": 0.0,
+    "final_score": 0.0,
     "active_sessions": 3,
     "recent_active": 3,
     "tool_calls": 0,
     "pending": 0,
-    "processing": 1,
+    "processing": 0,
     "estimated_response": 0
   },
-  "status_code": "medium",
-  "status_text": "🟡 处理中",
-  "suggestion": "正在响应请求",
+  "status_code": "idle",
+  "status_text": "⚪ 待机",
+  "suggestion": "等待新任务",
   "active_sessions": 3,
   "recent_active_count": 3,
   "total_tool_calls": 0,
   "pending_count": 0,
-  "processing_count": 1,
+  "processing_count": 0,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 76106,
-  "total_tokens_formatted": "76.1k",
+  "total_tokens": 82093,
+  "total_tokens_formatted": "82.1k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "👥 飞书集成",
-      "status": "🔄 处理中",
-      "tokens": 39082,
-      "type": "session",
-      "last_role": "assistant",
-      "category": "研究",
-      "category_icon": "🔬",
-      "category_description": "数据分析、竞品调研、技术方案设计"
-    },
-    {
       "label": "💬 心跳监控",
       "status": "💡 活跃中",
-      "tokens": 3990,
+      "tokens": 8372,
       "type": "session",
       "last_role": "assistant",
       "category": "系统",
       "category_icon": "🔧",
       "category_description": "飞书对话、状态监控、定时任务、系统维护"
+    },
+    {
+      "label": "👥 飞书集成",
+      "status": "💡 活跃中",
+      "tokens": 40687,
+      "type": "session",
+      "last_role": "assistant",
+      "category": "研究",
+      "category_icon": "🔬",
+      "category_description": "数据分析、竞品调研、技术方案设计"
     },
     {
       "label": "🤖 任务调度",
@@ -63,8 +63,8 @@
       "category_description": "数据分析、竞品调研、技术方案设计"
     }
   ],
-  "cpu_percent": 1.5,
-  "memory_percent": 19.2,
+  "cpu_percent": 0.0,
+  "memory_percent": 19.1,
   "workflow_details": [],
   "build_details": []
 }
