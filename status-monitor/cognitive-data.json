@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-01T15:07:02.898564+00:00",
+  "timestamp": "2026-05-01T15:09:02.307339+00:00",
   "cognitive_score": 39.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -27,24 +27,24 @@
   "processing_count": 1,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 116340,
-  "total_tokens_formatted": "116.3k",
+  "total_tokens": 121802,
+  "total_tokens_formatted": "121.8k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
       "label": "👥 飞书集成",
       "status": "🔄 处理中",
-      "tokens": 56285,
+      "tokens": 61747,
       "type": "session",
       "last_role": "assistant",
-      "category": "作品",
-      "category_icon": "🎮",
-      "category_description": "游戏开发、交互页面、创意工具、前端开发"
+      "category": "开发",
+      "category_icon": "⚙️",
+      "category_description": "后端服务、API开发、自动化脚本、技术基建"
     },
     {
       "label": "💬 心跳监控",
-      "status": "💤 209分钟前活跃",
+      "status": "💤 211分钟前活跃",
       "tokens": 60055,
       "type": "session",
       "last_role": "user",
@@ -54,7 +54,7 @@
     }
   ],
   "cpu_percent": 0.5,
-  "memory_percent": 19.5,
+  "memory_percent": 19.9,
   "workflow_details": [],
   "build_details": []
 }
