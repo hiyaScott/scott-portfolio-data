@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-03T17:39:02.662784+00:00",
+  "timestamp": "2026-05-03T17:41:02.321325+00:00",
   "cognitive_score": 12.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -27,15 +27,15 @@
   "processing_count": 1,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 172685,
-  "total_tokens_formatted": "172.7k",
+  "total_tokens": 171680,
+  "total_tokens_formatted": "171.7k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "🤖 GitHub操作",
+      "label": "🤖 PR审查",
       "status": "🔄 处理中",
-      "tokens": 74944,
+      "tokens": 73939,
       "type": "session",
       "last_role": "assistant",
       "category": "研究",
@@ -64,7 +64,7 @@
     }
   ],
   "cpu_percent": 0.5,
-  "memory_percent": 21.9,
+  "memory_percent": 22.8,
   "workflow_details": [],
   "build_details": []
 }
