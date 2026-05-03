@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-05-03T18:09:02.231754+00:00",
-  "cognitive_score": 4.0,
+  "timestamp": "2026-05-03T18:11:02.306689+00:00",
+  "cognitive_score": 8.0,
   "score_breakdown": {
     "wait_score": 0,
     "token_score": 0,
@@ -8,8 +8,8 @@
     "active_score": 0,
     "system_score": 0,
     "processing_bonus": 0,
-    "base_score": 4.0,
-    "final_score": 4.0,
+    "base_score": 8.0,
+    "final_score": 8.0,
     "active_sessions": 3,
     "recent_active": 3,
     "tool_calls": 0,
@@ -63,8 +63,8 @@
       "category_description": "游戏开发、交互页面、创意工具、前端开发"
     }
   ],
-  "cpu_percent": 0.5,
-  "memory_percent": 22.3,
+  "cpu_percent": 94.8,
+  "memory_percent": 21.3,
   "workflow_details": [],
   "build_details": []
 }
