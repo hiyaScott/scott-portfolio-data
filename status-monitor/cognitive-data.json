@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-03T16:51:02.426794+00:00",
+  "timestamp": "2026-05-03T16:53:03.075095+00:00",
   "cognitive_score": 9.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -27,15 +27,15 @@
   "processing_count": 1,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 63204,
-  "total_tokens_formatted": "63.2k",
+  "total_tokens": 61436,
+  "total_tokens_formatted": "61.4k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "💬 前端开发",
+      "label": "💬 PR审查",
       "status": "🔄 处理中",
-      "tokens": 63204,
+      "tokens": 61436,
       "type": "session",
       "last_role": "assistant",
       "category": "研究",
@@ -43,8 +43,8 @@
       "category_description": "数据分析、竞品调研、技术方案设计"
     }
   ],
-  "cpu_percent": 0.5,
-  "memory_percent": 20.9,
+  "cpu_percent": 7.5,
+  "memory_percent": 23.1,
   "workflow_details": [],
   "build_details": []
 }
