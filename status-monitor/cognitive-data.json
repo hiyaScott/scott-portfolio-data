@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-04T18:51:02.925219+00:00",
+  "timestamp": "2026-05-04T18:53:03.152103+00:00",
   "cognitive_score": 4.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -34,7 +34,7 @@
   "task_queue": [
     {
       "label": "💬 代码提交",
-      "status": "✅ 已回复",
+      "status": "💡 活跃中",
       "tokens": 55890,
       "type": "session",
       "last_role": "assistant",
