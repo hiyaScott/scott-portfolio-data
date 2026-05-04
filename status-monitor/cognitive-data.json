@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-04T13:35:02.526088+00:00",
+  "timestamp": "2026-05-04T13:37:03.164245+00:00",
   "cognitive_score": 12.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -27,15 +27,15 @@
   "processing_count": 1,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 106916,
-  "total_tokens_formatted": "106.9k",
+  "total_tokens": 105429,
+  "total_tokens_formatted": "105.4k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "🤖 飞书集成",
+      "label": "💬 代码提交",
       "status": "🔄 处理中",
-      "tokens": 55972,
+      "tokens": 54485,
       "type": "session",
       "last_role": "assistant",
       "category": "作品",
@@ -44,7 +44,7 @@
     },
     {
       "label": "💬 构建打包",
-      "status": "💡 活跃中",
+      "status": "✅ 已回复",
       "tokens": 50944,
       "type": "session",
       "last_role": "assistant",
@@ -53,8 +53,8 @@
       "category_description": "数据分析、竞品调研、技术方案设计"
     }
   ],
-  "cpu_percent": 0.5,
-  "memory_percent": 19.8,
+  "cpu_percent": 2.0,
+  "memory_percent": 19.9,
   "workflow_details": [],
   "build_details": []
 }
