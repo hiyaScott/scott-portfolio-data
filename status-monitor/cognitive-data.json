@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-04T02:17:02.696489+00:00",
+  "timestamp": "2026-05-04T02:19:02.743045+00:00",
   "cognitive_score": 36.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -34,7 +34,7 @@
   "task_queue": [
     {
       "label": "💬 前端开发",
-      "status": "💤 18分钟前活跃",
+      "status": "💤 20分钟前活跃",
       "tokens": 49519,
       "type": "session",
       "last_role": "user",
@@ -43,24 +43,24 @@
       "category_description": "后端服务、API开发、自动化脚本、技术基建"
     },
     {
-      "label": "💬 心跳监控",
-      "status": "💡 活跃中",
-      "tokens": 54189,
-      "type": "session",
-      "last_role": "assistant",
-      "category": "研究",
-      "category_icon": "🔬",
-      "category_description": "数据分析、竞品调研、技术方案设计"
-    },
-    {
       "label": "💬 前端开发",
-      "status": "💤 20分钟前活跃",
+      "status": "💤 22分钟前活跃",
       "tokens": 25594,
       "type": "session",
       "last_role": "user",
       "category": "作品",
       "category_icon": "🎮",
       "category_description": "游戏开发、交互页面、创意工具、前端开发"
+    },
+    {
+      "label": "💬 心跳监控",
+      "status": "✅ 已回复",
+      "tokens": 54189,
+      "type": "session",
+      "last_role": "assistant",
+      "category": "研究",
+      "category_icon": "🔬",
+      "category_description": "数据分析、竞品调研、技术方案设计"
     },
     {
       "label": "💬 任务调度",
@@ -73,8 +73,8 @@
       "category_description": "游戏开发、交互页面、创意工具、前端开发"
     }
   ],
-  "cpu_percent": 0.0,
-  "memory_percent": 25.3,
+  "cpu_percent": 0.5,
+  "memory_percent": 25.7,
   "workflow_details": [],
   "build_details": []
 }
