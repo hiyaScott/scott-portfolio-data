@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-05-04T19:11:02.666077+00:00",
-  "cognitive_score": 7.0,
+  "timestamp": "2026-05-04T19:13:02.248040+00:00",
+  "cognitive_score": 12.0,
   "score_breakdown": {
     "wait_score": 0,
     "token_score": 0,
@@ -8,39 +8,39 @@
     "active_score": 0,
     "system_score": 0,
     "processing_bonus": 0,
-    "base_score": 7.0,
-    "final_score": 7.0,
+    "base_score": 12.0,
+    "final_score": 12.0,
     "active_sessions": 2,
     "recent_active": 2,
     "tool_calls": 0,
     "pending": 0,
-    "processing": 0,
+    "processing": 1,
     "estimated_response": 0
   },
-  "status_code": "idle",
-  "status_text": "⚪ 待机",
-  "suggestion": "等待新任务",
+  "status_code": "medium",
+  "status_text": "🟡 处理中",
+  "suggestion": "正在响应请求",
   "active_sessions": 2,
   "recent_active_count": 2,
   "total_tool_calls": 0,
   "pending_count": 0,
-  "processing_count": 0,
+  "processing_count": 1,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 268681,
-  "total_tokens_formatted": "268.7k",
+  "total_tokens": 168842,
+  "total_tokens_formatted": "168.8k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "👥 代码版本",
-      "status": "💡 活跃中",
-      "tokens": 212791,
+      "label": "👥 前端开发",
+      "status": "🔄 处理中",
+      "tokens": 112952,
       "type": "session",
       "last_role": "assistant",
-      "category": "作品",
-      "category_icon": "🎮",
-      "category_description": "游戏开发、交互页面、创意工具、前端开发"
+      "category": "研究",
+      "category_icon": "🔬",
+      "category_description": "数据分析、竞品调研、技术方案设计"
     },
     {
       "label": "💬 代码提交",
@@ -53,8 +53,8 @@
       "category_description": "数据分析、竞品调研、技术方案设计"
     }
   ],
-  "cpu_percent": 1.0,
-  "memory_percent": 21.6,
+  "cpu_percent": 3.5,
+  "memory_percent": 21.4,
   "workflow_details": [],
   "build_details": []
 }
