@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-05T01:41:02.266213+00:00",
+  "timestamp": "2026-05-05T01:43:02.318103+00:00",
   "cognitive_score": 26.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -34,7 +34,7 @@
   "task_queue": [
     {
       "label": "💬 心跳监控",
-      "status": "💤 319分钟前活跃",
+      "status": "💤 321分钟前活跃",
       "tokens": 390,
       "type": "session",
       "last_role": "user",
@@ -53,8 +53,8 @@
       "category_description": "设计文档、分析报告、知识整理、文档编写"
     }
   ],
-  "cpu_percent": 0.5,
-  "memory_percent": 21.9,
+  "cpu_percent": 0.0,
+  "memory_percent": 22.6,
   "workflow_details": [],
   "build_details": []
 }
