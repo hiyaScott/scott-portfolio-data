@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-06T18:15:02.729618+00:00",
+  "timestamp": "2026-05-06T18:17:02.889978+00:00",
   "cognitive_score": 1.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -33,28 +33,28 @@
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "👥 代码提交",
-      "status": "💡 活跃中",
-      "tokens": 92160,
-      "type": "session",
-      "last_role": "assistant",
-      "category": "作品",
-      "category_icon": "🎮",
-      "category_description": "游戏开发、交互页面、创意工具、前端开发"
-    },
-    {
       "label": "💬 心跳监控",
-      "status": "✅ 已回复",
+      "status": "💡 活跃中",
       "tokens": 225,
       "type": "session",
       "last_role": "assistant",
       "category": "研究",
       "category_icon": "🔬",
       "category_description": "数据分析、竞品调研、技术方案设计"
+    },
+    {
+      "label": "👥 代码提交",
+      "status": "✅ 已回复",
+      "tokens": 92160,
+      "type": "session",
+      "last_role": "assistant",
+      "category": "作品",
+      "category_icon": "🎮",
+      "category_description": "游戏开发、交互页面、创意工具、前端开发"
     }
   ],
-  "cpu_percent": 0.5,
-  "memory_percent": 22.8,
+  "cpu_percent": 0.0,
+  "memory_percent": 22.5,
   "workflow_details": [],
   "build_details": []
 }
