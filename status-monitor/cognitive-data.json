@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-06T13:25:02.924071+00:00",
+  "timestamp": "2026-05-06T13:27:02.565474+00:00",
   "cognitive_score": 36.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -27,15 +27,15 @@
   "processing_count": 1,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 75611,
-  "total_tokens_formatted": "75.6k",
+  "total_tokens": 84042,
+  "total_tokens_formatted": "84.0k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "👥 GitHub操作",
+      "label": "👥 前端开发",
       "status": "🔄 处理中",
-      "tokens": 75496,
+      "tokens": 83927,
       "type": "session",
       "last_role": "assistant",
       "category": "研究",
@@ -44,7 +44,7 @@
     },
     {
       "label": "💬 心跳监控",
-      "status": "💤 1018分钟前活跃",
+      "status": "💤 1020分钟前活跃",
       "tokens": 115,
       "type": "session",
       "last_role": "user",
@@ -54,7 +54,7 @@
     }
   ],
   "cpu_percent": 0.0,
-  "memory_percent": 21.5,
+  "memory_percent": 22.0,
   "workflow_details": [],
   "build_details": []
 }
