@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-06T15:11:03.017947+00:00",
+  "timestamp": "2026-05-06T15:13:03.186881+00:00",
   "cognitive_score": 36.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -34,7 +34,7 @@
   "task_queue": [
     {
       "label": "💬 心跳监控",
-      "status": "💤 1124分钟前活跃",
+      "status": "💤 1126分钟前活跃",
       "tokens": 127,
       "type": "session",
       "last_role": "user",
@@ -44,7 +44,7 @@
     },
     {
       "label": "👥 前端开发",
-      "status": "💤 25分钟前活跃",
+      "status": "💤 27分钟前活跃",
       "tokens": 115361,
       "type": "session",
       "last_role": "user",
@@ -54,7 +54,7 @@
     }
   ],
   "cpu_percent": 0.5,
-  "memory_percent": 24.7,
+  "memory_percent": 24.4,
   "workflow_details": [],
   "build_details": []
 }
