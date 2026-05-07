@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-07T02:11:02.567762+00:00",
+  "timestamp": "2026-05-07T02:13:02.789749+00:00",
   "cognitive_score": 19.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -27,30 +27,30 @@
   "processing_count": 2,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 52008,
-  "total_tokens_formatted": "52.0k",
+  "total_tokens": 74397,
+  "total_tokens_formatted": "74.4k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
       "label": "💬 心跳监控",
       "status": "🔄 处理中",
-      "tokens": 5434,
-      "type": "session",
-      "last_role": "assistant",
-      "category": "作品",
-      "category_icon": "🎮",
-      "category_description": "游戏开发、交互页面、创意工具、前端开发"
-    },
-    {
-      "label": "👥 飞书集成",
-      "status": "🔄 处理中",
-      "tokens": 40907,
+      "tokens": 20121,
       "type": "session",
       "last_role": "assistant",
       "category": "研究",
       "category_icon": "🔬",
       "category_description": "数据分析、竞品调研、技术方案设计"
+    },
+    {
+      "label": "👥 飞书集成",
+      "status": "🔄 处理中",
+      "tokens": 48609,
+      "type": "session",
+      "last_role": "assistant",
+      "category": "作品",
+      "category_icon": "🎮",
+      "category_description": "游戏开发、交互页面、创意工具、前端开发"
     },
     {
       "label": "💬 任务调度",
@@ -63,8 +63,8 @@
       "category_description": "数据分析、竞品调研、技术方案设计"
     }
   ],
-  "cpu_percent": 0.5,
-  "memory_percent": 22.3,
+  "cpu_percent": 0.0,
+  "memory_percent": 23.0,
   "workflow_details": [],
   "build_details": []
 }
