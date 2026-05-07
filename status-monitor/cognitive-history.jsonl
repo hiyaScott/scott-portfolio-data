@@ -70901,3 +70901,5 @@
 {"timestamp": "2026-05-07T12:41:02.431140+00:00", "score": 1.0, "sessions": 1, "pending": 0, "processing": 0, "tokens": 56888, "cpu": 0.0, "memory": 23.0}
 {"timestamp": "2026-05-07T12:42:03.130312+00:00", "score": 1.0, "sessions": 1, "pending": 0, "processing": 0, "tokens": 56888, "cpu": 0.5, "memory": 22.6}
 {"timestamp": "2026-05-07T12:43:02.764621+00:00", "score": 1.0, "sessions": 1, "pending": 0, "processing": 0, "tokens": 56888, "cpu": 0.5, "memory": 22.6}
+{"timestamp": "2026-05-07T12:44:02.715388+00:00", "score": 1.0, "sessions": 1, "pending": 0, "processing": 0, "tokens": 56888, "cpu": 1.5, "memory": 23.1}
+{"timestamp": "2026-05-07T12:45:02.785770+00:00", "score": 1.0, "sessions": 1, "pending": 0, "processing": 0, "tokens": 56888, "cpu": 1.0, "memory": 23.2}
