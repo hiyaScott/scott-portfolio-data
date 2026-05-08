@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-08T05:01:02.576768+00:00",
+  "timestamp": "2026-05-08T05:03:02.899536+00:00",
   "cognitive_score": 29.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -33,28 +33,28 @@
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "👥 GitHub操作",
-      "status": "💡 活跃中",
-      "tokens": 144878,
-      "type": "session",
-      "last_role": "assistant",
-      "category": "研究",
-      "category_icon": "🔬",
-      "category_description": "数据分析、竞品调研、技术方案设计"
-    },
-    {
       "label": "💬 心跳监控",
-      "status": "💤 512分钟前活跃",
+      "status": "💤 514分钟前活跃",
       "tokens": 114,
       "type": "session",
       "last_role": "user",
       "category": "系统",
       "category_icon": "🔧",
       "category_description": "飞书对话、状态监控、定时任务、系统维护"
+    },
+    {
+      "label": "👥 GitHub操作",
+      "status": "✅ 已回复",
+      "tokens": 144878,
+      "type": "session",
+      "last_role": "assistant",
+      "category": "研究",
+      "category_icon": "🔬",
+      "category_description": "数据分析、竞品调研、技术方案设计"
     }
   ],
   "cpu_percent": 0.0,
-  "memory_percent": 23.7,
+  "memory_percent": 24.0,
   "workflow_details": [],
   "build_details": []
 }
