@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-05-08T07:41:03.174689+00:00",
-  "cognitive_score": 29.0,
+  "timestamp": "2026-05-08T07:43:03.001647+00:00",
+  "cognitive_score": 36.0,
   "score_breakdown": {
     "wait_score": 0,
     "token_score": 0,
@@ -8,33 +8,43 @@
     "active_score": 0,
     "system_score": 0,
     "processing_bonus": 0,
-    "base_score": 29.0,
-    "final_score": 29.0,
-    "active_sessions": 3,
-    "recent_active": 3,
+    "base_score": 36.0,
+    "final_score": 36.0,
+    "active_sessions": 4,
+    "recent_active": 4,
     "tool_calls": 0,
-    "pending": 1,
+    "pending": 2,
     "processing": 0,
-    "estimated_response": 15
+    "estimated_response": 30
   },
-  "status_code": "low",
-  "status_text": "🟢 空闲",
-  "suggestion": "可立即响应",
-  "active_sessions": 3,
-  "recent_active_count": 3,
+  "status_code": "medium",
+  "status_text": "🟡 忙碌",
+  "suggestion": "有多个活跃会话",
+  "active_sessions": 4,
+  "recent_active_count": 4,
   "total_tool_calls": 0,
-  "pending_count": 1,
+  "pending_count": 2,
   "processing_count": 0,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 109526,
-  "total_tokens_formatted": "109.5k",
+  "total_tokens": 128218,
+  "total_tokens_formatted": "128.2k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
+      "label": "💬 前端开发",
+      "status": "💤 2分钟前活跃",
+      "tokens": 18692,
+      "type": "session",
+      "last_role": "user",
+      "category": "研究",
+      "category_icon": "🔬",
+      "category_description": "数据分析、竞品调研、技术方案设计"
+    },
+    {
       "label": "👥 前端开发",
-      "status": "💤 14分钟前活跃",
+      "status": "💤 16分钟前活跃",
       "tokens": 90932,
       "type": "session",
       "last_role": "user",
@@ -63,8 +73,8 @@
       "category_description": "数据分析、竞品调研、技术方案设计"
     }
   ],
-  "cpu_percent": 1.0,
-  "memory_percent": 24.8,
+  "cpu_percent": 0.0,
+  "memory_percent": 24.2,
   "workflow_details": [],
   "build_details": []
 }
