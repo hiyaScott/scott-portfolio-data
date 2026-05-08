@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-08T15:31:03.027174+00:00",
+  "timestamp": "2026-05-08T15:33:02.674138+00:00",
   "cognitive_score": 29.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -34,7 +34,7 @@
   "task_queue": [
     {
       "label": "👥 游戏设计",
-      "status": "💤 31分钟前活跃",
+      "status": "💤 33分钟前活跃",
       "tokens": 130678,
       "type": "session",
       "last_role": "user",
@@ -63,8 +63,8 @@
       "category_description": "数据分析、竞品调研、技术方案设计"
     }
   ],
-  "cpu_percent": 0.0,
-  "memory_percent": 25.9,
+  "cpu_percent": 1.0,
+  "memory_percent": 26.2,
   "workflow_details": [],
   "build_details": []
 }
