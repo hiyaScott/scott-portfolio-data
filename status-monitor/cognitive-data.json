@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-08T08:47:03.143248+00:00",
+  "timestamp": "2026-05-08T08:49:02.387558+00:00",
   "cognitive_score": 36.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -34,7 +34,7 @@
   "task_queue": [
     {
       "label": "👥 前端开发",
-      "status": "💤 30分钟前活跃",
+      "status": "💤 32分钟前活跃",
       "tokens": 115595,
       "type": "session",
       "last_role": "user",
@@ -44,17 +44,7 @@
     },
     {
       "label": "💬 前端开发",
-      "status": "💡 活跃中",
-      "tokens": 21729,
-      "type": "session",
-      "last_role": "assistant",
-      "category": "研究",
-      "category_icon": "🔬",
-      "category_description": "数据分析、竞品调研、技术方案设计"
-    },
-    {
-      "label": "💬 前端开发",
-      "status": "💤 36分钟前活跃",
+      "status": "💤 38分钟前活跃",
       "tokens": 5582,
       "type": "session",
       "last_role": "user",
@@ -71,10 +61,20 @@
       "category": "研究",
       "category_icon": "🔬",
       "category_description": "数据分析、竞品调研、技术方案设计"
+    },
+    {
+      "label": "💬 前端开发",
+      "status": "✅ 已回复",
+      "tokens": 21729,
+      "type": "session",
+      "last_role": "assistant",
+      "category": "研究",
+      "category_icon": "🔬",
+      "category_description": "数据分析、竞品调研、技术方案设计"
     }
   ],
-  "cpu_percent": 1.0,
-  "memory_percent": 25.1,
+  "cpu_percent": 0.0,
+  "memory_percent": 24.9,
   "workflow_details": [],
   "build_details": []
 }
