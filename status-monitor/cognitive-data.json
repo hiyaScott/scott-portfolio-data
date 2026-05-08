@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-08T03:45:02.339306+00:00",
+  "timestamp": "2026-05-08T03:47:02.550903+00:00",
   "cognitive_score": 39.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -27,15 +27,15 @@
   "processing_count": 1,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 157706,
-  "total_tokens_formatted": "157.7k",
+  "total_tokens": 149125,
+  "total_tokens_formatted": "149.1k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "👥 PR审查",
+      "label": "👥 代码提交",
       "status": "🔄 处理中",
-      "tokens": 157592,
+      "tokens": 149011,
       "type": "session",
       "last_role": "assistant",
       "category": "研究",
@@ -44,7 +44,7 @@
     },
     {
       "label": "💬 心跳监控",
-      "status": "💤 436分钟前活跃",
+      "status": "💤 438分钟前活跃",
       "tokens": 114,
       "type": "session",
       "last_role": "user",
