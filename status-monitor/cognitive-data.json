@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-09T15:39:02.589248+00:00",
+  "timestamp": "2026-05-09T15:41:03.007893+00:00",
   "cognitive_score": 7.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -43,16 +43,6 @@
       "category_description": "数据分析、竞品调研、技术方案设计"
     },
     {
-      "label": "💬 PR审查",
-      "status": "💡 活跃中",
-      "tokens": 45721,
-      "type": "session",
-      "last_role": "assistant",
-      "category": "作品",
-      "category_icon": "🎮",
-      "category_description": "游戏开发、交互页面、创意工具、前端开发"
-    },
-    {
       "label": "💬 版本发布",
       "status": "✅ 已回复",
       "tokens": 11077,
@@ -61,10 +51,20 @@
       "category": "作品",
       "category_icon": "🎮",
       "category_description": "游戏开发、交互页面、创意工具、前端开发"
+    },
+    {
+      "label": "💬 PR审查",
+      "status": "✅ 已回复",
+      "tokens": 45721,
+      "type": "session",
+      "last_role": "assistant",
+      "category": "作品",
+      "category_icon": "🎮",
+      "category_description": "游戏开发、交互页面、创意工具、前端开发"
     }
   ],
   "cpu_percent": 0.5,
-  "memory_percent": 26.7,
+  "memory_percent": 26.3,
   "workflow_details": [],
   "build_details": []
 }
