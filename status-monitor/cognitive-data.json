@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-10T15:57:02.528028+00:00",
+  "timestamp": "2026-05-10T15:59:02.988905+00:00",
   "cognitive_score": 33.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -34,7 +34,7 @@
   "task_queue": [
     {
       "label": "👥 PR审查",
-      "status": "💤 55分钟前活跃",
+      "status": "💤 57分钟前活跃",
       "tokens": 52565,
       "type": "session",
       "last_role": "user",
@@ -53,8 +53,8 @@
       "category_description": "游戏开发、交互页面、创意工具、前端开发"
     }
   ],
-  "cpu_percent": 94.0,
-  "memory_percent": 25.9,
+  "cpu_percent": 93.4,
+  "memory_percent": 25.6,
   "workflow_details": [],
   "build_details": []
 }
