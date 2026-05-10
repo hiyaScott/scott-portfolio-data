@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-10T08:27:02.947605+00:00",
+  "timestamp": "2026-05-10T08:29:02.284265+00:00",
   "cognitive_score": 32.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -34,20 +34,10 @@
   "task_queue": [
     {
       "label": "👥 飞书集成",
-      "status": "💤 34分钟前活跃",
+      "status": "💤 36分钟前活跃",
       "tokens": 145116,
       "type": "session",
       "last_role": "user",
-      "category": "研究",
-      "category_icon": "🔬",
-      "category_description": "数据分析、竞品调研、技术方案设计"
-    },
-    {
-      "label": "💬 前端开发",
-      "status": "💡 活跃中",
-      "tokens": 7472,
-      "type": "session",
-      "last_role": "assistant",
       "category": "研究",
       "category_icon": "🔬",
       "category_description": "数据分析、竞品调研、技术方案设计"
@@ -71,10 +61,20 @@
       "category": "作品",
       "category_icon": "🎮",
       "category_description": "游戏开发、交互页面、创意工具、前端开发"
+    },
+    {
+      "label": "💬 前端开发",
+      "status": "✅ 已回复",
+      "tokens": 7472,
+      "type": "session",
+      "last_role": "assistant",
+      "category": "研究",
+      "category_icon": "🔬",
+      "category_description": "数据分析、竞品调研、技术方案设计"
     }
   ],
-  "cpu_percent": 1.0,
-  "memory_percent": 27.8,
+  "cpu_percent": 0.5,
+  "memory_percent": 27.7,
   "workflow_details": [],
   "build_details": []
 }
