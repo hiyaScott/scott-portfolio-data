@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-10T15:49:02.775776+00:00",
+  "timestamp": "2026-05-10T15:51:02.958398+00:00",
   "cognitive_score": 33.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -34,7 +34,7 @@
   "task_queue": [
     {
       "label": "👥 PR审查",
-      "status": "💤 47分钟前活跃",
+      "status": "💤 49分钟前活跃",
       "tokens": 52565,
       "type": "session",
       "last_role": "user",
@@ -64,7 +64,7 @@
     }
   ],
   "cpu_percent": 93.9,
-  "memory_percent": 25.7,
+  "memory_percent": 25.8,
   "workflow_details": [],
   "build_details": []
 }
