@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-10T16:11:02.444326+00:00",
+  "timestamp": "2026-05-10T16:13:02.924449+00:00",
   "cognitive_score": 5.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -43,7 +43,7 @@
       "category_description": "游戏开发、交互页面、创意工具、前端开发"
     }
   ],
-  "cpu_percent": 93.4,
+  "cpu_percent": 94.0,
   "memory_percent": 25.6,
   "workflow_details": [],
   "build_details": []
