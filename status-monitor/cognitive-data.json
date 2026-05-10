@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-05-10T09:25:02.534418+00:00",
-  "cognitive_score": 36.0,
+  "timestamp": "2026-05-10T09:27:02.934066+00:00",
+  "cognitive_score": 25.0,
   "score_breakdown": {
     "wait_score": 0,
     "token_score": 0,
@@ -8,14 +8,14 @@
     "active_score": 0,
     "system_score": 0,
     "processing_bonus": 0,
-    "base_score": 36.0,
-    "final_score": 36.0,
+    "base_score": 25.0,
+    "final_score": 25.0,
     "active_sessions": 5,
     "recent_active": 5,
     "tool_calls": 0,
     "pending": 0,
-    "processing": 3,
-    "estimated_response": 30
+    "processing": 2,
+    "estimated_response": 15
   },
   "status_code": "medium",
   "status_text": "🟡 处理中",
@@ -24,28 +24,28 @@
   "recent_active_count": 5,
   "total_tool_calls": 0,
   "pending_count": 0,
-  "processing_count": 3,
+  "processing_count": 2,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 310741,
-  "total_tokens_formatted": "310.7k",
+  "total_tokens": 290306,
+  "total_tokens_formatted": "290.3k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
-      "label": "👥 前端开发",
+      "label": "👥 PR审查",
       "status": "🔄 处理中",
-      "tokens": 142586,
+      "tokens": 121333,
       "type": "session",
       "last_role": "assistant",
-      "category": "研究",
-      "category_icon": "🔬",
-      "category_description": "数据分析、竞品调研、技术方案设计"
+      "category": "作品",
+      "category_icon": "🎮",
+      "category_description": "游戏开发、交互页面、创意工具、前端开发"
     },
     {
-      "label": "👥 GitHub操作",
+      "label": "👥 数据库",
       "status": "🔄 处理中",
-      "tokens": 82751,
+      "tokens": 83569,
       "type": "session",
       "last_role": "assistant",
       "category": "研究",
@@ -54,7 +54,7 @@
     },
     {
       "label": "💬 前端开发",
-      "status": "🔄 处理中",
+      "status": "💡 活跃中",
       "tokens": 25044,
       "type": "session",
       "last_role": "assistant",
@@ -83,8 +83,8 @@
       "category_description": "游戏开发、交互页面、创意工具、前端开发"
     }
   ],
-  "cpu_percent": 1.5,
-  "memory_percent": 26.3,
+  "cpu_percent": 0.0,
+  "memory_percent": 26.8,
   "workflow_details": [],
   "build_details": []
 }
