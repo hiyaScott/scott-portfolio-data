@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-10T11:27:03.029316+00:00",
+  "timestamp": "2026-05-10T11:29:02.741969+00:00",
   "cognitive_score": 1.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -34,8 +34,8 @@
   "task_queue": [
     {
       "label": "💬 前端开发",
-      "status": "💡 活跃中",
-      "tokens": 7096,
+      "status": "✅ 已回复",
+      "tokens": 20935,
       "type": "session",
       "last_role": "assistant",
       "category": "研究",
@@ -45,7 +45,7 @@
     {
       "label": "💬 前端开发",
       "status": "✅ 已回复",
-      "tokens": 20935,
+      "tokens": 7096,
       "type": "session",
       "last_role": "assistant",
       "category": "研究",
@@ -63,8 +63,8 @@
       "category_description": "游戏开发、交互页面、创意工具、前端开发"
     }
   ],
-  "cpu_percent": 0.5,
-  "memory_percent": 27.4,
+  "cpu_percent": 0.0,
+  "memory_percent": 26.8,
   "workflow_details": [],
   "build_details": []
 }
