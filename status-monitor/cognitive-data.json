@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-10T15:23:02.692829+00:00",
+  "timestamp": "2026-05-10T15:25:03.315128+00:00",
   "cognitive_score": 33.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -10,8 +10,8 @@
     "processing_bonus": 0,
     "base_score": 33.0,
     "final_score": 33.0,
-    "active_sessions": 4,
-    "recent_active": 4,
+    "active_sessions": 3,
+    "recent_active": 3,
     "tool_calls": 0,
     "pending": 1,
     "processing": 0,
@@ -20,21 +20,21 @@
   "status_code": "low",
   "status_text": "🟢 空闲",
   "suggestion": "可立即响应",
-  "active_sessions": 4,
-  "recent_active_count": 4,
+  "active_sessions": 3,
+  "recent_active_count": 3,
   "total_tool_calls": 0,
   "pending_count": 1,
   "processing_count": 0,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 134340,
-  "total_tokens_formatted": "134.3k",
+  "total_tokens": 126748,
+  "total_tokens_formatted": "126.7k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
       "label": "👥 PR审查",
-      "status": "💤 21分钟前活跃",
+      "status": "💤 23分钟前活跃",
       "tokens": 52565,
       "type": "session",
       "last_role": "user",
@@ -61,20 +61,10 @@
       "category": "作品",
       "category_icon": "🎮",
       "category_description": "游戏开发、交互页面、创意工具、前端开发"
-    },
-    {
-      "label": "💬 前端开发",
-      "status": "✅ 已回复",
-      "tokens": 7592,
-      "type": "session",
-      "last_role": "assistant",
-      "category": "研究",
-      "category_icon": "🔬",
-      "category_description": "数据分析、竞品调研、技术方案设计"
     }
   ],
-  "cpu_percent": 93.6,
-  "memory_percent": 25.5,
+  "cpu_percent": 92.9,
+  "memory_percent": 25.8,
   "workflow_details": [],
   "build_details": []
 }
