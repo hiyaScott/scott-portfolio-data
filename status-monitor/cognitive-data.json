@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-13T13:09:03.041776+00:00",
+  "timestamp": "2026-05-13T13:11:03.271118+00:00",
   "cognitive_score": 46.0,
   "score_breakdown": {
     "wait_score": 0,
@@ -27,15 +27,15 @@
   "processing_count": 1,
   "github_workflows": 0,
   "local_builds": 0,
-  "total_tokens": 65543,
-  "total_tokens_formatted": "65.5k",
+  "total_tokens": 78265,
+  "total_tokens_formatted": "78.3k",
   "estimated_response": 30,
   "estimated_response_formatted": "30s",
   "task_queue": [
     {
       "label": "👥 飞书集成",
       "status": "🔄 处理中",
-      "tokens": 16402,
+      "tokens": 29124,
       "type": "session",
       "last_role": "assistant",
       "category": "研究",
@@ -44,7 +44,7 @@
     },
     {
       "label": "💬 版本发布",
-      "status": "💤 10分钟前活跃",
+      "status": "💤 12分钟前活跃",
       "tokens": 3822,
       "type": "session",
       "last_role": "user",
@@ -74,7 +74,7 @@
     },
     {
       "label": "👥 飞书集成",
-      "status": "💤 7分钟前活跃",
+      "status": "💤 9分钟前活跃",
       "tokens": 1363,
       "type": "session",
       "last_role": "user",
@@ -93,8 +93,8 @@
       "category_description": "游戏开发、交互页面、创意工具、前端开发"
     }
   ],
-  "cpu_percent": 94.9,
-  "memory_percent": 21.4,
+  "cpu_percent": 93.9,
+  "memory_percent": 21.5,
   "workflow_details": [],
   "build_details": []
 }
